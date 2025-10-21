@@ -1,0 +1,103 @@
+{
+  "podcast": {
+    "title": "Nodcast",
+    "tagline": "Evidence-Based Relaxation for Better Sleep",
+    "description": "Welcome to Nodcast, where evidence-based relaxation techniques meet modern sleep science. Our guided sessions feature expert instruction in progressive muscle relaxation, breathing exercises, body scan meditation, and autogenic training. Each episode presents research-backed methods for reducing stress, releasing physical tension, and promoting deep relaxation for improved sleep quality and overall well-being.",
+    "rss_feed": "nodcast_rss/feed.xml",
+    "contact_email": "contact@nodcast.com"
+  },
+  "categories": {
+    "guided-relaxation": {
+      "title": "Guided Relaxation Sessions",
+      "icon": "🧘",
+      "description": "Evidence-based relaxation techniques including progressive muscle relaxation, breathing exercises, body scan meditation, and autogenic training for stress reduction and improved sleep quality.",
+      "color": "#6b73ff"
+    }
+  },
+  "episodes": [
+    {
+      "id": "progressive_muscle_relaxation_12min",
+      "title": "Progressive Muscle Relaxation - Essential 12 Minutes",
+      "category": "guided-relaxation",
+      "duration": "12 minutes",
+      "audio_file": "nodcast_rss/progressive_muscle_relaxation_12min.mp3",
+      "episode_number": 1,
+      "format": "Guided practice",
+      "focus": "Systematic tension and release of eight major muscle groups",
+      "description": "A comprehensive twelve-minute progressive muscle relaxation session that guides you through systematically tensing and releasing eight major muscle groups throughout your body. This evidence-based technique, developed by physician Edmund Jacobson, helps activate your body's natural relaxation response by teaching you to recognize the contrast between tension and relaxation. The session includes gentle instruction for feet and calves, thighs, abdomen and lower back, hands and arms, shoulders and neck, face and scalp, and back and chest. Research shows that progressive muscle relaxation can effectively reduce stress, lower blood pressure, and improve sleep quality. The practice includes safety guidelines and modifications for different comfort levels, making it accessible for beginners while remaining effective for experienced practitioners.",
+      "technique_details": {
+        "method": "Progressive Muscle Relaxation (Jacobson technique)",
+        "muscle_groups": "Eight major groups: feet/calves, thighs, abdomen/lower back, hands/arms, shoulders/neck, face/scalp, back/chest",
+        "tension_duration": "5-7 seconds per muscle group",
+        "release_duration": "10-15 seconds per muscle group",
+        "safety_notes": "Includes contraindication warnings and gentle approach guidance",
+        "evidence_base": "Developed by Edmund Jacobson, research-backed for stress reduction and sleep improvement",
+        "instructor_approach": "Warm, steady presence with clear step-by-step guidance",
+        "session_structure": "Introduction → systematic muscle work → whole-body integration → gentle conclusion"
+      }
+    },
+    {
+      "id": "breathing_exercise_8min",
+      "title": "Guided Breathing Exercise - Essential 8 Minutes",
+      "category": "guided-relaxation",
+      "duration": "8 minutes",
+      "audio_file": "nodcast_rss/breathing_exercise_8min.mp3",
+      "episode_number": 2,
+      "format": "Guided practice",
+      "focus": "Diaphragmatic breathing and 4-7-8 breathing technique",
+      "description": "An eight-minute guided breathing practice featuring two fundamental techniques: diaphragmatic breathing and the 4-7-8 breathing pattern. This session teaches you how to use conscious breathing as a powerful tool for reducing stress, calming the mind, and activating your parasympathetic nervous system. The practice begins with diaphragmatic breathing, also called belly breathing, which helps you breathe more efficiently and activates the relaxation response. You'll then learn the 4-7-8 breathing technique developed by Dr. Andrew Weil, which is particularly effective for reducing anxiety and promoting relaxation. Research shows that controlled breathing exercises can lower blood pressure, reduce anxiety, and improve overall well-being within just minutes of practice. The session includes clear instruction on proper technique, safety guidelines, and gentle guidance for returning to natural breathing rhythm.",
+      "technique_details": {
+        "method": "Diaphragmatic breathing and 4-7-8 breathing pattern",
+        "breathing_techniques": "Belly breathing for efficiency, 4-7-8 pattern for anxiety reduction",
+        "timing_pattern": "Inhale 4 counts, hold 7 counts, exhale 8 counts",
+        "physiological_target": "Parasympathetic nervous system activation",
+        "safety_notes": "Includes respiratory and cardiovascular condition warnings",
+        "evidence_base": "Research-backed for blood pressure reduction and anxiety management",
+        "instructor_approach": "Experienced breathwork specialist with steady, calming guidance",
+        "session_structure": "Natural breath awareness → diaphragmatic breathing → 4-7-8 technique → natural return"
+      }
+    },
+    {
+      "id": "body_scan_meditation_10min",
+      "title": "Body Scan Meditation - Essential 10 Minutes",
+      "category": "guided-relaxation",
+      "duration": "10 minutes",
+      "audio_file": "nodcast_rss/body_scan_meditation_10min.mp3",
+      "episode_number": 3,
+      "format": "Guided meditation",
+      "focus": "Mindful body awareness and present-moment attention",
+      "description": "A ten-minute body scan meditation that systematically guides your attention through different parts of your body, helping you develop body awareness, release physical tension, and cultivate present-moment attention. This fundamental mindfulness practice involves observing whatever sensations are present without trying to change them, teaching you to develop a more peaceful relationship with your body and physical experience. Research from mindfulness-based stress reduction programs shows that regular body scan practice can reduce chronic pain, improve sleep quality, and decrease stress and anxiety. The session moves systematically from the top of your head through your face, neck, arms, chest, abdomen, back, hips, legs, and feet, concluding with whole-body awareness. The practice emphasizes gentle curiosity rather than judgment, helping you observe your physical experience with acceptance and kindness.",
+      "technique_details": {
+        "method": "Mindfulness-based body scan meditation",
+        "scan_sequence": "Head to toe systematic attention: head/face → neck/shoulders → arms → chest/abdomen → back/hips → legs/feet",
+        "attention_duration": "30-60 seconds per body region",
+        "mindfulness_approach": "Observing without changing, gentle curiosity over judgment",
+        "safety_notes": "Suitable for general adult population with mindful awareness principles",
+        "evidence_base": "Mindfulness-based stress reduction research, chronic pain and sleep studies",
+        "instructor_approach": "Experienced meditation teacher with warm, accepting guidance",
+        "session_structure": "Settling → systematic scanning → whole-body awareness → mindful conclusion"
+      }
+    },
+    {
+      "id": "autogenic_training_12min",
+      "title": "Autogenic Training - Essential 12 Minutes",
+      "category": "guided-relaxation",
+      "duration": "12 minutes",
+      "audio_file": "nodcast_rss/autogenic_training_12min.mp3",
+      "episode_number": 4,
+      "format": "Guided practice",
+      "focus": "Self-induced relaxation through heaviness and warmth formulas",
+      "description": "A twelve-minute autogenic training session featuring the fundamental heaviness and warmth formulas for deep relaxation and stress reduction. Autogenic training is a powerful self-regulation technique developed by German psychiatrist Johannes Schultz that uses mental exercises to promote relaxation by helping you develop conscious control over normally unconscious bodily functions. The practice involves repeating specific phrases while focusing on different parts of your body to generate sensations of heaviness and warmth, which are natural indicators of muscle relaxation and improved circulation. Research has shown autogenic training to be effective for reducing stress, lowering blood pressure, improving sleep, and managing anxiety. The session guides you through the heaviness formula for arms and legs, followed by the warmth formula, using the principle of passive concentration where you focus attention gently without forcing sensations.",
+      "technique_details": {
+        "method": "Autogenic training with heaviness and warmth formulas",
+        "formula_sequence": "Heaviness series (arms → legs → whole body) followed by warmth series (arms → legs → combined)",
+        "mental_phrases": "Systematic repetition of 'heavy' and 'warm' suggestions for each body area",
+        "passive_concentration": "Gentle attention without forcing, allowing natural body response",
+        "safety_notes": "Includes cardiovascular and medical condition contraindications",
+        "evidence_base": "Developed by Johannes Schultz, research-backed for stress and blood pressure reduction",
+        "instructor_approach": "Specialized autogenic training instructor with steady, systematic guidance",
+        "session_structure": "Preparation → heaviness formulas → warmth formulas → integration → alert return"
+      }
+    }
+  ]
+}
