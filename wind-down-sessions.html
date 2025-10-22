@@ -1,0 +1,92 @@
+<!-- FILE_LOCATION= ellipse://pgit_nodcast/wind-down-sessions.html -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Evening Wind-Down Sessions - Nodcast</title>
+    <meta name="description" content="Gentle evening practices to transition from day to night, including daily reflection, gratitude practice, tension release, and worry management for peaceful sleep preparation.">
+    <meta name="keywords" content="evening wind down, daily reflection, gratitude practice, tension release, worry management, sleep preparation, evening transition">
+    <link rel="stylesheet" href="css/site.css">
+    <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🌙</text></svg>">
+</head>
+<body>
+    <div id="header-placeholder"></div>
+    <div id="main-placeholder"></div>
+    <div id="footer-placeholder"></div>
+
+    <script src="js/site.js"></script>
+    <script>
+        // Initialize the wind-down sessions category page
+        async function initPage() {
+            try {
+                const content = await window.nodcastSite.init('category', 'wind-down-sessions');
+                if (content) {
+                    document.getElementById('header-placeholder').innerHTML = content.header;
+                    document.getElementById('main-placeholder').innerHTML = content.main;
+                    document.getElementById('footer-placeholder').innerHTML = content.footer;
+                }
+            } catch (error) {
+                console.error('Failed to initialize page:', error);
+                // Fallback content
+                document.getElementById('header-placeholder').innerHTML = `
+                    <header>
+                        <div class="container">
+                            <div class="header-content">
+                                <div class="logo-section">
+                                    <div class="podcast-artwork">NC</div>
+                                    <div class="title-section">
+                                        <h1>Nodcast</h1>
+                                        <div class="breadcrumb">
+                                            <a href="index.html">Home</a> → Evening Wind-Down Sessions
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="nav-links">
+                                    <a href="index.html">Home</a>
+                                    <a href="guided-relaxation.html">Guided Relaxation Sessions</a>
+                                    <a href="nodcast_rss/feed.xml">RSS</a>
+                                </div>
+                            </div>
+                        </div>
+                    </header>
+                `;
+                document.getElementById('main-placeholder').innerHTML = `
+                    <div class="container">
+                        <main>
+                            <section class="category-header" style="background: linear-gradient(135deg, #9c88ff 0%, #bc98ff 100%)">
+                                <div class="category-icon">🌙</div>
+                                <h2>Evening Wind-Down Sessions</h2>
+                                <p class="category-description">Gentle evening practices to transition from day to night for peaceful sleep preparation.</p>
+                            </section>
+                            <section class="episodes-section">
+                                <div class="episode-card">
+                                    <p>Content loading failed. Please refresh the page or return to the <a href="index.html">homepage</a>.</p>
+                                </div>
+                            </section>
+                        </main>
+                    </div>
+                `;
+                document.getElementById('footer-placeholder').innerHTML = `
+                    <footer>
+                        <div class="container">
+                            <div class="footer-content">
+                                <div>
+                                    <p>&copy; 2024 Nodcast Podcast. Content for educational and relaxation purposes.</p>
+                                </div>
+                                <div class="social-links">
+                                    <a href="nodcast_rss/feed.xml">RSS Feed</a>
+                                    <a href="mailto:contact@nodcast.com">Contact</a>
+                                </div>
+                            </div>
+                        </div>
+                    </footer>
+                `;
+            }
+        }
+
+        // Initialize when DOM is loaded
+        document.addEventListener('DOMContentLoaded', initPage);
+    </script>
+</body>
+</html>

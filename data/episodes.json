@@ -2,7 +2,7 @@
   "podcast": {
     "title": "Nodcast",
     "tagline": "Evidence-Based Relaxation for Better Sleep",
-    "description": "Welcome to Nodcast, where evidence-based relaxation techniques meet modern sleep science. Our guided sessions feature expert instruction in progressive muscle relaxation, breathing exercises, body scan meditation, and autogenic training. Each episode presents research-backed methods for reducing stress, releasing physical tension, and promoting deep relaxation for improved sleep quality and overall well-being.",
+    "description": "Welcome to Nodcast, where evidence-based relaxation techniques meet modern sleep science. Our guided sessions feature expert instruction in progressive muscle relaxation, breathing exercises, body scan meditation, autogenic training, and gentle evening practices. Each episode presents research-backed methods for reducing stress, releasing physical tension, and promoting deep relaxation for improved sleep quality and overall well-being.",
     "rss_feed": "nodcast_rss/feed.xml",
     "contact_email": "contact@nodcast.com"
   },
@@ -12,6 +12,12 @@
       "icon": "🧘",
       "description": "Evidence-based relaxation techniques including progressive muscle relaxation, breathing exercises, body scan meditation, and autogenic training for stress reduction and improved sleep quality.",
       "color": "#6b73ff"
+    },
+    "wind-down-sessions": {
+      "title": "Evening Wind-Down Sessions",
+      "icon": "🌙",
+      "description": "Gentle evening practices to transition from day to night, including daily reflection, gratitude practice, tension release, and worry management for peaceful sleep preparation.",
+      "color": "#9c88ff"
     }
   },
   "episodes": [
@@ -97,6 +103,91 @@
         "evidence_base": "Developed by Johannes Schultz, research-backed for stress and blood pressure reduction",
         "instructor_approach": "Specialized autogenic training instructor with steady, systematic guidance",
         "session_structure": "Preparation → heaviness formulas → warmth formulas → integration → alert return"
+      }
+    },
+    {
+      "id": "daily_reflection_5min",
+      "title": "Daily Reflection - Essential 5 Minutes",
+      "category": "wind-down-sessions",
+      "duration": "5 minutes",
+      "audio_file": "nodcast_rss/daily_reflection_5min.mp3",
+      "episode_number": 1,
+      "format": "Gentle reflection",
+      "focus": "End-of-day acknowledgment and peaceful transition",
+      "description": "A gentle five-minute daily reflection practice to acknowledge the day's experiences, find appreciation, and prepare for restful sleep. This session provides a peaceful transition from the activities of the day to the quiet of evening through kind observation and gentle letting go. The practice involves looking back at your day with gentle awareness, finding something to appreciate however small, and acknowledging any concerns while setting them aside for rest. This isn't about analyzing or fixing anything from the day, but simply observing with the same gentle attention you might give to watching clouds pass by. The session helps create a sense of completion and peace, allowing you to settle into rest with gratitude and contentment rather than carrying the day's mental activity into sleep.",
+      "evening_details": {
+        "practice_type": "Daily acknowledgment and appreciation",
+        "transition_focus": "From day's activity to evening's rest",
+        "reflection_approach": "Gentle observation without judgment or analysis",
+        "gratitude_element": "Finding one thing to appreciate from the day",
+        "worry_management": "Acknowledgment and gentle setting aside of concerns",
+        "completion_sense": "Creating closure and peace for the day",
+        "instructor_approach": "Gentle evening companion with warm, supportive presence",
+        "session_structure": "Day acknowledgment → appreciation finding → concern release → peaceful transition"
+      }
+    },
+    {
+      "id": "gratitude_practice_5min",
+      "title": "Gratitude Practice - Essential 5 Minutes",
+      "category": "wind-down-sessions",
+      "duration": "5 minutes",
+      "audio_file": "nodcast_rss/gratitude_practice_5min.mp3",
+      "episode_number": 2,
+      "format": "Gentle reflection",
+      "focus": "Evening appreciation cultivation and positive focus",
+      "description": "A gentle five-minute gratitude practice to cultivate appreciation and end the day with positive focus before sleep. This session helps shift attention toward what has supported and nourished you throughout the day, however small or simple it might have been. The practice isn't about forcing gratitude or pretending difficulties don't exist, but rather gently turning attention toward the good that was present. Starting with basic appreciations like breath and body, the session moves through comfort and beauty noticed during the day, people who were part of your experience, and small accomplishments or positive moments. The practice concludes by appreciating the act of gratitude itself, helping you rest with a sense of abundance and satisfaction that can carry into peaceful sleep.",
+      "evening_details": {
+        "practice_type": "Structured appreciation and thankfulness cultivation",
+        "gratitude_categories": "Breath/body, basic comforts, beauty, people, accomplishments",
+        "approach": "Gentle noticing without forcing positive emotions",
+        "difficulty_acknowledgment": "Recognizing some days gratitude comes easier than others",
+        "abundance_cultivation": "Creating sense of satisfaction and contentment",
+        "sleep_preparation": "Positive focus as transition to rest",
+        "instructor_approach": "Gentle evening companion specializing in appreciation practice",
+        "session_structure": "Basic gratitude → expanded appreciation → positive conclusion → rest transition"
+      }
+    },
+    {
+      "id": "tension_release_8min",
+      "title": "Tension Release - Essential 8 Minutes",
+      "category": "wind-down-sessions",
+      "duration": "8 minutes",
+      "audio_file": "nodcast_rss/tension_release_8min.mp3",
+      "episode_number": 3,
+      "format": "Gentle release practice",
+      "focus": "Physical and mental tension release for evening transition",
+      "description": "A gentle eight-minute practice to release accumulated physical and mental tension from the day and prepare for restful sleep. This session acknowledges that after a full day of activity, it's natural for the body and mind to have accumulated tension, and provides gentle methods to help release what is no longer needed. The practice begins with body awareness, scanning through different areas to notice where tension might be held, then guides you through gentle movements and releases for shoulders, neck, arms, back, and legs. The session also addresses mental tension, helping you close the mental tabs and windows that have been open during the day. This isn't about forcing relaxation but rather creating permission for your body and mind to naturally let go and prepare for rest.",
+      "evening_details": {
+        "practice_type": "Physical and mental tension acknowledgment and release",
+        "body_awareness": "Gentle scanning from head to toe for tension recognition",
+        "release_methods": "Gentle movements, stretches, and conscious letting go",
+        "mental_clearing": "Closing mental tabs and setting aside day's concerns",
+        "permission_approach": "Allowing natural release rather than forcing relaxation",
+        "day_acknowledgment": "Appreciating body and mind's work throughout the day",
+        "instructor_approach": "Gentle evening companion specializing in tension release",
+        "session_structure": "Body awareness → physical release → mental clearing → rest preparation"
+      }
+    },
+    {
+      "id": "worry_release_8min",
+      "title": "Worry Release - Essential 8 Minutes",
+      "category": "wind-down-sessions",
+      "duration": "8 minutes",
+      "audio_file": "nodcast_rss/worry_release_8min.mp3",
+      "episode_number": 4,
+      "format": "Gentle boundary practice",
+      "focus": "Concern acknowledgment and healthy worry boundaries",
+      "description": "A gentle eight-minute practice to acknowledge concerns, establish healthy boundaries around worry, and prepare for restful sleep. This session recognizes that concerns and worries naturally arise throughout the day and can follow us into evening hours, while teaching the important skill of temporal boundaries - knowing when to engage with worries and when to set them aside. The practice involves acknowledging current concerns without judgment, recognizing that evening is not an effective time for problem-solving, and creating a gentle container for worries to rest until they can be addressed with fresh energy. This isn't about dismissing legitimate concerns but rather recognizing that tired worry is not effective worry, and that rest actually prepares you to handle challenges more effectively tomorrow.",
+      "evening_details": {
+        "practice_type": "Worry acknowledgment and boundary setting",
+        "concern_recognition": "Gentle acknowledgment of current worries without judgment",
+        "temporal_boundaries": "Understanding appropriate times for worry vs. rest",
+        "containment_method": "Creating mental container for concerns to rest safely",
+        "effectiveness_principle": "Recognizing tired worry is not effective worry",
+        "trust_building": "Developing confidence in ability to handle tomorrow's challenges",
+        "caring_acknowledgment": "Recognizing worry often comes from love and caring",
+        "instructor_approach": "Gentle evening companion specializing in worry management",
+        "session_structure": "Concern acknowledgment → boundary education → containment practice → trust building"
       }
     }
   ]
