@@ -2,7 +2,7 @@
   "podcast": {
     "title": "Nodcast",
     "tagline": "Evidence-Based Relaxation for Better Sleep",
-    "description": "Welcome to Nodcast, where evidence-based relaxation techniques meet modern sleep science. Our guided sessions feature expert instruction in progressive muscle relaxation, breathing exercises, body scan meditation, autogenic training, and gentle evening practices. Each episode presents research-backed methods for reducing stress, releasing physical tension, and promoting deep relaxation for improved sleep quality and overall well-being.",
+    "description": "Welcome to Nodcast, where evidence-based relaxation techniques meet modern sleep science. Our guided sessions feature expert instruction in progressive muscle relaxation, breathing exercises, body scan meditation, autogenic training, gentle evening practices, and calming sleep stories. Each episode presents research-backed methods for reducing stress, releasing physical tension, and promoting deep relaxation for improved sleep quality and overall well-being.",
     "rss_feed": "nodcast_rss/feed.xml",
     "contact_email": "contact@nodcast.com"
   },
@@ -18,6 +18,12 @@
       "icon": "🌙",
       "description": "Gentle evening practices to transition from day to night, including daily reflection, gratitude practice, tension release, and worry management for peaceful sleep preparation.",
       "color": "#9c88ff"
+    },
+    "sleep-stories": {
+      "title": "Sleep Stories",
+      "icon": "🌲",
+      "description": "Calming narrative journeys designed to gently occupy the mind during sleep transition, featuring nature walks, peaceful visualizations, meditation stories, and cozy domestic scenes for natural sleep onset.",
+      "color": "#4ecdc4"
     }
   },
   "episodes": [
@@ -91,16 +97,16 @@
       "duration": "12 minutes",
       "audio_file": "nodcast_rss/autogenic_training_12min.mp3",
       "episode_number": 4,
-      "format": "Guided practice",
-      "focus": "Self-induced relaxation through heaviness and warmth formulas",
-      "description": "A twelve-minute autogenic training session featuring the fundamental heaviness and warmth formulas for deep relaxation and stress reduction. Autogenic training is a powerful self-regulation technique developed by German psychiatrist Johannes Schultz that uses mental exercises to promote relaxation by helping you develop conscious control over normally unconscious bodily functions. The practice involves repeating specific phrases while focusing on different parts of your body to generate sensations of heaviness and warmth, which are natural indicators of muscle relaxation and improved circulation. Research has shown autogenic training to be effective for reducing stress, lowering blood pressure, improving sleep, and managing anxiety. The session guides you through the heaviness formula for arms and legs, followed by the warmth formula, using the principle of passive concentration where you focus attention gently without forcing sensations.",
+      "format": "Guided self-regulation",
+      "focus": "Heaviness and warmth formulas for deep relaxation",
+      "description": "A twelve-minute autogenic training session featuring the fundamental heaviness and warmth formulas for deep relaxation and stress reduction. This powerful self-regulation technique, developed by German psychiatrist Johannes Schultz, uses focused attention and specific mental formulas to promote conscious control over normally unconscious bodily functions. The practice involves generating sensations of heaviness and warmth throughout your arms and legs through passive concentration and gentle mental repetition. Research has shown autogenic training to be effective for reducing stress, lowering blood pressure, improving sleep, and managing anxiety. The session guides you through the complete sequence of heaviness formulas followed by warmth formulas, concluding with whole-body integration and gentle return to alertness. This technique teaches your body to access its natural relaxation response through focused mental attention.",
       "technique_details": {
-        "method": "Autogenic training with heaviness and warmth formulas",
-        "formula_sequence": "Heaviness series (arms → legs → whole body) followed by warmth series (arms → legs → combined)",
-        "mental_phrases": "Systematic repetition of 'heavy' and 'warm' suggestions for each body area",
-        "passive_concentration": "Gentle attention without forcing, allowing natural body response",
-        "safety_notes": "Includes cardiovascular and medical condition contraindications",
-        "evidence_base": "Developed by Johannes Schultz, research-backed for stress and blood pressure reduction",
+        "method": "Autogenic training (Schultz technique) with heaviness and warmth formulas",
+        "formula_sequence": "Right arm → left arm → both arms → right leg → left leg → both legs → whole body",
+        "passive_concentration": "Gentle attention without forcing, allowing natural response",
+        "physiological_target": "Muscle relaxation (heaviness) and circulation improvement (warmth)",
+        "safety_notes": "Includes cardiovascular and medical condition considerations",
+        "evidence_base": "Developed by Johannes Schultz, research-backed for stress and anxiety reduction",
         "instructor_approach": "Specialized autogenic training instructor with steady, systematic guidance",
         "session_structure": "Preparation → heaviness formulas → warmth formulas → integration → alert return"
       }
@@ -188,6 +194,90 @@
         "caring_acknowledgment": "Recognizing worry often comes from love and caring",
         "instructor_approach": "Gentle evening companion specializing in worry management",
         "session_structure": "Concern acknowledgment → boundary education → containment practice → trust building"
+      }
+    },
+    {
+      "id": "nature_journey_9min",
+      "title": "Forest Path Journey - Essential 9 Minutes",
+      "category": "sleep-stories",
+      "duration": "9 minutes",
+      "audio_file": "nodcast_rss/nature_journey_9min.mp3",
+      "episode_number": 1,
+      "format": "Sleep story",
+      "focus": "Peaceful autumn forest walk with gentle wildlife encounters",
+      "description": "A gentle nine-minute journey through a peaceful autumn forest, designed to help your mind settle as you prepare for sleep. This calming narrative takes you on a slow, mindful walk along a quiet woodland path where changing seasons have painted the world in soft, warm colors. The story features gentle descriptions of falling leaves, birch groves, forest clearings, wildlife encounters including a curious squirrel, and the soothing sounds of a small stream flowing through the woods. With no dramatic tension or stimulating elements, this nature story encourages relaxation through rich sensory details of autumn scents, pine groves, and the peaceful rhythms of the natural world. The narrative is specifically crafted to occupy the mind gently while supporting the transition from wakefulness to sleep, allowing your thoughts to settle into the same gentle calm that fills this imaginary woodland sanctuary.",
+      "story_details": {
+        "narrative_type": "Nature journey through autumn forest setting",
+        "sensory_elements": "Autumn leaves, pine scents, stream sounds, forest wildlife, seasonal colors",
+        "pacing_approach": "Slow, unhurried progression matching natural sleep transition",
+        "imagery_focus": "Peaceful woodland scenes, gentle weather, comfortable natural settings",
+        "wildlife_encounters": "Curious squirrel, distant bird calls, small forest creatures",
+        "safety_atmosphere": "Complete sanctuary feeling, no threatening or stimulating elements",
+        "narrator_approach": "Gentle storyteller specializing in nature-based sleep narratives",
+        "story_structure": "Forest entrance → peaceful walking → wildlife encounters → stream discovery → pine grove rest"
+      }
+    },
+    {
+      "id": "guided_visualization_8min",
+      "title": "Cozy Mountain Cabin - Essential 8 Minutes",
+      "category": "sleep-stories",
+      "duration": "8 minutes",
+      "audio_file": "nodcast_rss/guided_visualization_8min.mp3",
+      "episode_number": 2,
+      "format": "Sleep story",
+      "focus": "Mountain cabin retreat with fireplace and cozy comfort",
+      "description": "An eight-minute guided visualization journey to a warm, comfortable mountain cabin retreat, designed to help your mind settle and your body prepare for restful sleep. This immersive story takes you along a peaceful mountain path in early evening to your own personal sanctuary nestled among pine trees. The cabin features a crackling stone fireplace, comfortable sofa with soft blankets, warm herbal tea, and large windows overlooking a star-filled forest scene. Rich sensory details include the scent of burning wood, the weight of soft woolly blankets, the taste of perfectly warm chamomile tea, and the gentle sounds of wind through pine branches. The visualization creates a complete atmosphere of safety, warmth, and comfort, providing the perfect environment for releasing the day's stress and allowing natural sleep to emerge. This is your own special retreat where time moves slowly and peacefully, with nothing required except rest and enjoyment of perfect tranquility.",
+      "story_details": {
+        "narrative_type": "Guided visualization to personal mountain retreat sanctuary",
+        "sensory_elements": "Wood smoke, pine scents, fireplace warmth, soft textures, herbal tea",
+        "comfort_features": "Stone fireplace, comfortable sofa, warm blankets, peaceful lighting",
+        "safety_atmosphere": "Personal retreat, complete protection, no disturbances possible",
+        "environmental_setting": "Mountain cabin surrounded by protective pine forest",
+        "relaxation_elements": "Crackling fire sounds, soft furnishings, optimal temperature",
+        "narrator_approach": "Gentle storyteller specializing in guided visualization narratives",
+        "story_structure": "Mountain path → cabin approach → interior comfort → fireplace rest → deep settling"
+      }
+    },
+    {
+      "id": "meditation_narrative_10min",
+      "title": "Garden of Breath - Essential 10 Minutes",
+      "category": "sleep-stories",
+      "duration": "10 minutes",
+      "audio_file": "nodcast_rss/meditation_narrative_10min.mp3",
+      "episode_number": 3,
+      "format": "Sleep story",
+      "focus": "Meditation garden with breath awareness and fountain rhythm",
+      "description": "A ten-minute meditation story that combines gentle narrative with breath awareness, guiding you through a beautiful garden sanctuary designed for deep relaxation and sleep preparation. This unique sleep story weaves together peaceful imagery of lavender beds, flowering trees, and a central fountain with mindful breathing practices that help synchronize your natural rhythm with the garden's peaceful energy. The story features gentle movement through flower-filled paths, rest beside a three-tiered stone fountain whose flowing water guides your breathing pattern, and exploration of different garden areas representing various aspects of peace and tranquility. Night-blooming flowers, aromatic herbs, and soft mossy resting areas create a complete sensory experience that supports both mental calm and physical relaxation. The narrative seamlessly integrates meditation elements while maintaining the flowing, story-like quality that helps occupy the mind during sleep transition.",
+      "story_details": {
+        "narrative_type": "Meditation story combining breath awareness with garden imagery",
+        "breathing_integration": "Fountain rhythm synchronization, natural breath awareness",
+        "garden_elements": "Lavender beds, flowering trees, herb sections, fountain centerpiece",
+        "meditation_aspects": "Gentle breath focus, mindful movement, present-moment awareness",
+        "sensory_aromatherapy": "Lavender, jasmine, chamomile, mint natural fragrances",
+        "peaceful_progression": "Garden entrance → flower paths → fountain meditation → nighttime rest",
+        "narrator_approach": "Gentle storyteller specializing in meditation-based sleep narratives",
+        "story_structure": "Garden entry → breath-coordinated walking → fountain meditation → arbor passage → natural bedding rest"
+      }
+    },
+    {
+      "id": "everyday_serenity_9min",
+      "title": "Evening by the Window - Essential 9 Minutes",
+      "category": "sleep-stories",
+      "duration": "9 minutes",
+      "audio_file": "nodcast_rss/everyday_serenity_9min.mp3",
+      "episode_number": 4,
+      "format": "Sleep story",
+      "focus": "Cozy evening reading scene with gentle rain and warm lighting",
+      "description": "A nine-minute story celebrating the simple pleasure of a peaceful evening at home, designed to help you transition naturally from the day's activities to restful sleep. This domestic comfort narrative places you in your favorite chair beside a large window where gentle rain creates soothing background sounds while you enjoy warm herbal tea and a comforting book. The story features perfect lighting from table lamps and candles, the peaceful rhythm of raindrops on glass, the familiar comfort of soft furnishings, and the satisfaction of an unhurried evening routine. Rich details include the smooth pages of a favorite book, the warmth of a ceramic tea mug, soft throw blankets, and the cozy contrast between cool rain outside and warm comfort inside. This everyday serenity story captures the profound peace found in simple domestic pleasures, helping your nervous system recognize that it's time to rest and allowing natural sleep to emerge from this perfectly comfortable evening sanctuary.",
+      "story_details": {
+        "narrative_type": "Domestic evening comfort scene with rain ambiance",
+        "comfort_elements": "Favorite reading chair, warm lighting, herbal tea, soft blankets",
+        "ambient_sounds": "Gentle rain on windows, soft lamp glow, peaceful indoor atmosphere",
+        "domestic_details": "Familiar books, ceramic mug warmth, comfortable furnishings",
+        "evening_rhythm": "Unhurried reading pace, natural breathing synchronization",
+        "safety_comfort": "Complete home sanctuary, no obligations or pressures",
+        "narrator_approach": "Gentle storyteller specializing in everyday comfort narratives",
+        "story_structure": "Evening settling → comfortable reading → rain appreciation → blanket comfort → peaceful rest preparation"
       }
     }
   ]
