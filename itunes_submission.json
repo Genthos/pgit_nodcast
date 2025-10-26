@@ -1,0 +1,124 @@
+{
+  "submission_package": {
+    "platform": "Apple Podcasts Connect",
+    "submission_type": "RSS Feed",
+    "submission_date": "2025-10-26T18:00:00Z",
+    "package_version": "1.0",
+    "apple_podcasters_program": false
+  },
+  "account_requirements": {
+    "apple_id_required": true,
+    "payment_method_required": true,
+    "two_factor_authentication": "recommended",
+    "account_type": "individual",
+    "terms_acceptance": "required"
+  },
+  "feed_details": {
+    "rss_feed_url": "https://genthos.github.io/pgit_nodcast/nodcast_rss/apple_rss.xml",
+    "verification_timeline": "30 minutes to few hours",
+    "review_timeline": "24 hours to 5 business days",
+    "itunes_namespace": "http://www.itunes.com/dtds/podcast-1.0.dtd",
+    "feed_encoding": "UTF-8"
+  },
+  "content_validation": {
+    "required_channel_elements": {
+      "title": "Nodcast",
+      "link": "https://genthos.github.io/pgit_nodcast",
+      "description": "Present and complete",
+      "language": "en",
+      "itunes_image": "https://genthos.github.io/pgit_nodcast/artwork.jpg",
+      "itunes_category": "Health & Fitness, Education",
+      "itunes_explicit": "false",
+      "itunes_author": "Nodcast Team",
+      "itunes_owner": "contact@genthos.com"
+    },
+    "required_item_elements": {
+      "title": "Present for all episodes",
+      "enclosure": "Valid URLs and file sizes",
+      "guid": "Unique for all episodes",
+      "pubDate": "RFC 2822 format",
+      "itunes_duration": "All episodes have duration"
+    },
+    "artwork_validation": {
+      "size_range": "1400x1400 to 3000x3000 pixels",
+      "format": "JPEG",
+      "color_space": "RGB",
+      "accessibility": "Publicly accessible URLs",
+      "server_requirements": "HTTP HEAD requests supported"
+    }
+  },
+  "podcast_configuration": {
+    "show_information": {
+      "title": "Nodcast",
+      "subtitle": "Evidence-Based Relaxation for Better Sleep",
+      "description_complete": true,
+      "categories_selected": ["Health & Fitness", "Education"],
+      "explicit_rating": false,
+      "podcast_type": "episodic",
+      "complete_status": false
+    },
+    "contact_information": {
+      "owner_name": "Nodcast Team",
+      "owner_email": "contact@genthos.com",
+      "show_contact_completed": true,
+      "contact_private": true
+    },
+    "availability_settings": {
+      "countries": ["US", "CA", "GB", "AU", "NZ", "IE"],
+      "public_catalog": true,
+      "apple_podcasts_catalog_api": true,
+      "transcript_preference": "manual"
+    }
+  },
+  "technical_compliance": {
+    "rss_validation": {
+      "xml_well_formed": true,
+      "rss_2_0_compliant": true,
+      "itunes_namespace_declared": true,
+      "required_elements_present": true,
+      "character_encoding": "UTF-8"
+    },
+    "media_validation": {
+      "audio_files_accessible": true,
+      "supported_formats": "MP3",
+      "file_sizes_accurate": true,
+      "server_head_requests": true,
+      "no_authentication_required": true
+    },
+    "feed_accessibility": {
+      "publicly_accessible": true,
+      "no_password_protection": true,
+      "proper_mime_types": true,
+      "consistent_urls": true
+    }
+  },
+  "episode_summary": {
+    "total_episodes": 12,
+    "episode_numbering": "Sequential within categories",
+    "guid_uniqueness": "All episodes have unique GUIDs",
+    "publication_dates": "Properly formatted RFC 2822",
+    "duration_format": "MM:SS format for all episodes",
+    "category_distribution": {
+      "guided_relaxation": 4,
+      "wind_down_sessions": 4,
+      "sleep_stories": 4
+    }
+  },
+  "submission_checklist": {
+    "apple_id_setup": true,
+    "payment_method_added": true,
+    "rss_feed_validated": true,
+    "artwork_compliant": true,
+    "content_guidelines_met": true,
+    "contact_info_complete": true,
+    "availability_configured": true,
+    "terms_accepted": true
+  },
+  "post_submission": {
+    "validation_monitoring": "Check Apple Podcasts Connect for validation status",
+    "review_waiting": "Allow 24 hours to 5 business days for review",
+    "approval_notification": "Email notification when approved",
+    "analytics_access": "Available in Apple Podcasts Connect dashboard",
+    "feed_management": "Ongoing feed updates sync automatically"
+  }
+}

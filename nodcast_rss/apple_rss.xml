@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" 
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+     xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Nodcast</title>
+    <link>https://genthos.github.io/pgit_nodcast</link>
+    <description>Welcome to Nodcast, where evidence-based relaxation techniques meet modern sleep science. Our guided sessions feature expert instruction in progressive muscle relaxation, breathing exercises, body scan meditation, autogenic training, gentle evening practices, and calming sleep stories. Each episode presents research-backed methods for reducing stress, releasing physical tension, and promoting deep relaxation for improved sleep quality and overall well-being.</description>
+    <language>en</language>
+    <copyright>© 2024 Nodcast. Content for educational and relaxation purposes.</copyright>
+    <managingEditor>contact@genthos.com (Nodcast Team)</managingEditor>
+    <webMaster>contact@genthos.com (Nodcast Team)</webMaster>
+    <lastBuildDate>Wed, 23 Oct 2025 18:00:00 +0000</lastBuildDate>
+    <pubDate>Wed, 23 Oct 2025 18:00:00 +0000</pubDate>
+    
+    <atom:link href="https://genthos.github.io/pgit_nodcast/nodcast_rss/apple_rss.xml" rel="self" type="application/rss+xml" />
+    
+    <itunes:type>episodic</itunes:type>
+    <itunes:author>Nodcast Team</itunes:author>
+    <itunes:summary>Evidence-based relaxation techniques for better sleep and stress reduction. Featuring progressive muscle relaxation, breathing exercises, body scan meditation, autogenic training, evening wind-down practices, and calming sleep stories. Each episode presents research-backed methods for reducing stress, releasing physical tension, and promoting deep relaxation for improved sleep quality and overall well-being.</itunes:summary>
+    <itunes:subtitle>Evidence-Based Relaxation for Better Sleep</itunes:subtitle>
+    <itunes:owner>
+      <itunes:name>Nodcast Team</itunes:name>
+      <itunes:email>contact@genthos.com</itunes:email>
+    </itunes:owner>
+    <itunes:image href="https://genthos.github.io/pgit_nodcast/artwork.jpg" />
+    <itunes:category text="Health &amp; Fitness">
+      <itunes:category text="Mental Health" />
+    </itunes:category>
+    <itunes:category text="Education">
+      <itunes:category text="Self-Improvement" />
+    </itunes:category>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:keywords>relaxation, sleep, meditation, breathing exercises, progressive muscle relaxation, stress reduction, guided meditation, sleep stories, mindfulness, wellness</itunes:keywords>
+    
+    <item>
+      <title>Evening by the Window - Essential 9 Minutes</title>
+      <description>A nine-minute sleep story featuring a peaceful domestic evening scene by a window with gentle rain, warm lighting, and comfortable reading. This narrative celebrates the simple pleasures of a quiet evening at home, focusing on familiar comfort objects like a favorite chair, herbal tea, and a good book while rain creates soothing background sounds. The story emphasizes everyday serenity and the beauty found in ordinary moments of peace and comfort.</description>
+      <enclosure url="https://genthos.github.io/pgit_nodcast/nodcast_rss/everyday_serenity_9min.mp3" length="8640000" type="audio/mpeg" />
+      <guid isPermaLink="false">nodcast-evening-9min-001</guid>
+      <pubDate>Thu, 23 Oct 2025 17:45:00 +0000</pubDate>
+      <itunes:title>Evening by the Window - Essential 9 Minutes</itunes:title>
+      <itunes:episode>4</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>Nodcast Team</itunes:author>
+      <itunes:subtitle>Peaceful domestic evening with reading and gentle rain</itunes:subtitle>
+      <itunes:summary>A sleep story celebrating everyday serenity through comfortable domestic scenes, warm lighting, and the soothing sound of gentle rain. Features familiar comfort objects and peaceful evening routines designed to help listeners transition naturally into sleep through relatable, calming imagery.</itunes:summary>
+      <itunes:duration>9:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords>sleep story, domestic comfort, evening routine, gentle rain, relaxation, everyday serenity</itunes:keywords>
+      <itunes:image href="https://genthos.github.io/pgit_nodcast/episode_art/everyday_serenity.jpg" />
+    </item>
+    
+    <item>
+      <title>Garden of Breath - Essential 10 Minutes</title>
+      <description>A ten-minute meditation story that combines gentle narrative with breath awareness in a beautiful garden setting. This unique sleep story guides you through a peaceful garden sanctuary where your breathing becomes synchronized with natural elements like flowing fountains and evening breezes. The story weaves mindfulness elements into the narrative, helping you develop both story engagement and breath awareness as pathways to deep relaxation and sleep.</description>
+      <enclosure url="https://genthos.github.io/pgit_nodcast/nodcast_rss/meditation_narrative_10min.mp3" length="9600000" type="audio/mpeg" />
+      <guid isPermaLink="false">nodcast-garden-10min-001</guid>
+      <pubDate>Thu, 23 Oct 2025 17:40:00 +0000</pubDate>
+      <itunes:title>Garden of Breath - Essential 10 Minutes</itunes:title>
+      <itunes:episode>3</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>Nodcast Team</itunes:author>
+      <itunes:subtitle>Story-based meditation combining narrative with breath awareness</itunes:subtitle>
+      <itunes:summary>A meditation story set in a peaceful garden where breath awareness and narrative combine for deep relaxation. Features fountain-synchronized breathing, natural aromatherapy elements, and gentle mindfulness instruction woven into calming storytelling for effective sleep preparation.</itunes:summary>
+      <itunes:duration>10:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords>meditation story, breath awareness, garden meditation, mindfulness narrative, sleep preparation</itunes:keywords>
+      <itunes:image href="https://genthos.github.io/pgit_nodcast/episode_art/garden_breath.jpg" />
+    </item>
+    
+    <item>
+      <title>Cozy Mountain Cabin - Essential 8 Minutes</title>
+      <description>An eight-minute guided visualization journey to a warm, comfortable mountain cabin retreat. This sleep story immerses you in detailed sensory experiences of coziness and comfort, from the crackling fireplace and soft furnishings to herbal tea and peaceful forest views through the windows. The narrative creates a perfect sanctuary atmosphere designed to help your mind settle into the comfort and safety that promotes natural sleep onset.</description>
+      <enclosure url="https://genthos.github.io/pgit_nodcast/nodcast_rss/guided_visualization_8min.mp3" length="7680000" type="audio/mpeg" />
+      <guid isPermaLink="false">nodcast-cabin-8min-001</guid>
+      <pubDate>Thu, 23 Oct 2025 17:35:00 +0000</pubDate>
+      <itunes:title>Cozy Mountain Cabin - Essential 8 Minutes</itunes:title>
+      <itunes:episode>2</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>Nodcast Team</itunes:author>
+      <itunes:subtitle>Warm cabin retreat with rich sensory comfort details</itunes:subtitle>
+      <itunes:summary>A guided visualization to a cozy mountain cabin featuring fireplace warmth, comfortable furnishings, and peaceful forest sanctuary. Rich sensory details create an atmosphere of complete safety and comfort, designed to help listeners feel deeply relaxed and ready for sleep.</itunes:summary>
+      <itunes:duration>8:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords>guided visualization, mountain cabin, cozy retreat, fireplace, comfort, sanctuary</itunes:keywords>
+      <itunes:image href="https://genthos.github.io/pgit_nodcast/episode_art/mountain_cabin.jpg" />
+    </item>
+    
+    <item>
+      <title>Forest Path Journey - Essential 9 Minutes</title>
+      <description>A gentle nine-minute journey through a peaceful autumn forest featuring rich sensory descriptions, wildlife encounters, and seasonal beauty. This sleep story takes you on a slow, mindful walk along a woodland path where golden leaves crunch underfoot and wildlife moves peacefully through the trees. The narrative includes encounters with streams, clearings, and groves of different trees, all designed to engage your imagination in calming imagery that encourages natural sleep onset.</description>
+      <enclosure url="https://genthos.github.io/pgit_nodcast/nodcast_rss/nature_journey_9min.mp3" length="8640000" type="audio/mpeg" />
+      <guid isPermaLink="false">nodcast-nature-9min-001</guid>
+      <pubDate>Thu, 23 Oct 2025 17:30:00 +0000</pubDate>
+      <itunes:title>Forest Path Journey - Essential 9 Minutes</itunes:title>
+      <itunes:episode>1</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>Nodcast Team</itunes:author>
+      <itunes:subtitle>Peaceful autumn forest walk with calming natural details</itunes:subtitle>
+      <itunes:summary>A nature-based sleep story featuring an autumn forest walk with wildlife encounters, flowing streams, and peaceful woodland atmosphere. Rich sensory descriptions of seasonal beauty and natural sounds create an immersive experience designed to gently guide listeners toward natural sleep onset.</itunes:summary>
+      <itunes:duration>9:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords>nature journey, forest walk, autumn, wildlife, sleep story, natural sounds</itunes:keywords>
+      <itunes:image href="https://genthos.github.io/pgit_nodcast/episode_art/forest_path.jpg" />
+    </item>
+    
+    <item>
+      <title>Worry Release - Essential 8 Minutes</title>
+      <description>An eight-minute practice focused on acknowledging concerns while establishing healthy boundaries around worry time. This session helps you recognize that while caring about your life and responsibilities is natural, evening and nighttime are not the most effective times for worry or problem-solving. The practice guides you through gentle concern acknowledgment, temporal boundary setting, and worry containment techniques to help clear your mind for restful sleep.</description>
+      <enclosure url="https://genthos.github.io/pgit_nodcast/nodcast_rss/worry_release_8min.mp3" length="7680000" type="audio/mpeg" />
+      <guid isPermaLink="false">nodcast-worry-8min-001</guid>
+      <pubDate>Sun, 20 Oct 2025 21:15:00 +0000</pubDate>
+      <itunes:title>Worry Release - Essential 8 Minutes</itunes:title>
+      <itunes:episode>4</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>Nodcast Team</itunes:author>
+      <itunes:subtitle>Healthy boundaries around worry and evening mental clearing</itunes:subtitle>
+      <itunes:summary>Evening practice for managing worry through healthy boundaries, concern acknowledgment, and mental clearing techniques. Helps establish appropriate times for problem-solving while creating space for restful sleep through gentle worry containment methods.</itunes:summary>
+      <itunes:duration>8:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords>worry management, mental boundaries, evening practice, concern release, sleep preparation</itunes:keywords>
+      <itunes:image href="https://genthos.github.io/pgit_nodcast/episode_art/worry_release.jpg" />
+    </item>
+    
+    <item>
+      <title>Gratitude Practice - Essential 5 Minutes</title>
+      <description>A five-minute gratitude practice designed to help you end your day with positive focus and appreciation. This session guides you through recognizing and appreciating various aspects of your day, from basic comforts and body functions to moments of beauty and human connection. The practice emphasizes authentic appreciation rather than forced positivity, helping you cultivate a genuine sense of gratitude that can enhance well-being and prepare your mind for peaceful sleep.</description>
+      <enclosure url="https://genthos.github.io/pgit_nodcast/nodcast_rss/gratitude_practice_5min.mp3" length="4800000" type="audio/mpeg" />
+      <guid isPermaLink="false">nodcast-gratitude-5min-001</guid>
+      <pubDate>Sun, 20 Oct 2025 21:10:00 +0000</pubDate>
+      <itunes:title>Gratitude Practice - Essential 5 Minutes</itunes:title>
+      <itunes:episode>2</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>Nodcast Team</itunes:author>
+      <itunes:subtitle>Evening gratitude reflection and appreciation cultivation</itunes:subtitle>
+      <itunes:summary>End-of-day gratitude practice focusing on authentic appreciation for daily experiences, basic comforts, and meaningful moments. Designed to cultivate genuine thankfulness and positive emotion as preparation for peaceful sleep and enhanced well-being.</itunes:summary>
+      <itunes:duration>5:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords>gratitude practice, appreciation, positive reflection, evening routine, well-being</itunes:keywords>
+      <itunes:image href="https://genthos.github.io/pgit_nodcast/episode_art/gratitude_practice.jpg" />
+    </item>
+    
+    <item>
+      <title>Tension Release - Essential 8 Minutes</title>
+      <description>An eight-minute evening practice designed to help you release accumulated physical and mental tension from the day. This session guides you through gentle body awareness, simple movement, and mental clearing techniques to help your body and mind transition from daily activities to rest. The practice acknowledges that tension accumulation is natural and provides gentle, effective methods for releasing what your body no longer needs to carry, creating space for relaxation and renewal.</description>
+      <enclosure url="https://genthos.github.io/pgit_nodcast/nodcast_rss/tension_release_8min.mp3" length="7680000" type="audio/mpeg" />
+      <guid isPermaLink="false">nodcast-tension-8min-001</guid>
+      <pubDate>Sun, 20 Oct 2025 21:05:00 +0000</pubDate>
+      <itunes:title>Tension Release - Essential 8 Minutes</itunes:title>
+      <itunes:episode>3</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>Nodcast Team</itunes:author>
+      <itunes:subtitle>Physical and mental tension release for sleep preparation</itunes:subtitle>
+      <itunes:summary>Evening practice for releasing daily tension through body awareness, gentle movement, and mental clearing techniques. Helps transition from daily activities to rest by providing gentle methods for releasing accumulated physical and mental tension.</itunes:summary>
+      <itunes:duration>8:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords>tension release, body awareness, stress relief, evening routine, relaxation</itunes:keywords>
+      <itunes:image href="https://genthos.github.io/pgit_nodcast/episode_art/tension_release.jpg" />
+    </item>
+    
+    <item>
+      <title>Daily Reflection - Essential 5 Minutes</title>
+      <description>A gentle five-minute end-of-day reflection practice that helps you acknowledge your experiences, find gratitude, and prepare for restful sleep. This session guides you through observing your day with kind awareness, finding moments to appreciate, and releasing concerns that may be occupying your mind. The practice emphasizes gentle acknowledgment rather than analysis, helping you transition from the activities of the day to the peace of evening with a sense of completion and contentment.</description>
+      <enclosure url="https://genthos.github.io/pgit_nodcast/nodcast_rss/daily_reflection_5min.mp3" length="4800000" type="audio/mpeg" />
+      <guid isPermaLink="false">nodcast-reflection-5min-001</guid>
+      <pubDate>Sun, 20 Oct 2025 21:00:00 +0000</pubDate>
+      <itunes:title>Daily Reflection - Essential 5 Minutes</itunes:title>
+      <itunes:episode>1</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>Nodcast Team</itunes:author>
+      <itunes:subtitle>End-of-day acknowledgment and gratitude practice</itunes:subtitle>
+      <itunes:summary>Gentle evening reflection to acknowledge daily experiences, find appreciation, and prepare for peaceful sleep. Emphasizes kind awareness and gentle acknowledgment rather than analysis, helping create a sense of completion and contentment at day's end.</itunes:summary>
+      <itunes:duration>5:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords>daily reflection, evening practice, gratitude, sleep preparation, mindful awareness</itunes:keywords>
+      <itunes:image href="https://genthos.github.io/pgit_nodcast/episode_art/daily_reflection.jpg" />
+    </item>
+    
+    <item>
+      <title>Autogenic Training - Essential 12 Minutes</title>
+      <description>A twelve-minute autogenic training session featuring the fundamental heaviness and warmth formulas developed by German psychiatrist Johannes Schultz. This powerful self-regulation technique helps you develop conscious control over normally unconscious bodily functions through focused attention and specific mental formulas. Research has shown autogenic training to be effective for reducing stress, lowering blood pressure, improving sleep, and managing anxiety. The session guides you through passive concentration techniques, helping you generate natural sensations of heaviness and warmth that indicate deep relaxation.</description>
+      <enclosure url="https://genthos.github.io/pgit_nodcast/nodcast_rss/autogenic_training_12min.mp3" length="11520000" type="audio/mpeg" />
+      <guid isPermaLink="false">nodcast-autogenic-12min-001</guid>
+      <pubDate>Sun, 20 Oct 2025 20:45:00 +0000</pubDate>
+      <itunes:title>Autogenic Training - Essential 12 Minutes</itunes:title>
+      <itunes:episode>4</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>Nodcast Team</itunes:author>
+      <itunes:subtitle>Self-regulation through heaviness and warmth formulas</itunes:subtitle>
+      <itunes:summary>Autogenic training session using Schultz method for developing conscious control over relaxation responses through mental formulas. Features heaviness and warmth techniques for stress reduction, blood pressure management, and sleep improvement through evidence-based self-regulation practices.</itunes:summary>
+      <itunes:duration>12:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords>autogenic training, self-regulation, relaxation response, stress reduction, Schultz method</itunes:keywords>
+      <itunes:image href="https://genthos.github.io/pgit_nodcast/episode_art/autogenic_training.jpg" />
+    </item>
+    
+    <item>
+      <title>Body Scan Meditation - Essential 10 Minutes</title>
+      <description>A ten-minute body scan meditation that guides you through systematically bringing attention to different parts of your body, observing whatever sensations are present without trying to change them. This fundamental mindfulness practice helps develop body awareness, release physical tension, and cultivate present-moment attention. Research from mindfulness-based stress reduction programs shows that regular body scan practice can reduce chronic pain, improve sleep quality, and decrease stress and anxiety. The meditation teaches you to observe your physical experience with gentle curiosity rather than judgment.</description>
+      <enclosure url="https://genthos.github.io/pgit_nodcast/nodcast_rss/body_scan_meditation_10min.mp3" length="9600000" type="audio/mpeg" />
+      <guid isPermaLink="false">nodcast-bodyscan-10min-001</guid>
+      <pubDate>Sun, 20 Oct 2025 20:40:00 +0000</pubDate>
+      <itunes:title>Body Scan Meditation - Essential 10 Minutes</itunes:title>
+      <itunes:episode>3</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>Nodcast Team</itunes:author>
+      <itunes:subtitle>Mindful body awareness and present-moment attention cultivation</itunes:subtitle>
+      <itunes:summary>MBSR-based body scan meditation for developing mindful body awareness and present-moment attention through systematic observation. Research-backed practice for reducing chronic pain, improving sleep quality, and decreasing stress through gentle, non-judgmental body awareness.</itunes:summary>
+      <itunes:duration>10:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords>body scan meditation, mindfulness, body awareness, MBSR, present moment, stress reduction</itunes:keywords>
+      <itunes:image href="https://genthos.github.io/pgit_nodcast/episode_art/body_scan.jpg" />
+    </item>
+    
+    <item>
+      <title>Guided Breathing Exercise - Essential 8 Minutes</title>
+      <description>An eight-minute guided breathing practice featuring two fundamental techniques: diaphragmatic breathing and the 4-7-8 breathing pattern. This session teaches you how to use conscious breathing as a powerful tool for reducing stress, calming the mind, and activating your parasympathetic nervous system. Research shows that controlled breathing exercises can lower blood pressure, reduce anxiety, and improve overall well-being within just minutes of practice. The session includes detailed instruction on proper breathing mechanics, safety guidelines, and practical applications for daily stress management.</description>
+      <enclosure url="https://genthos.github.io/pgit_nodcast/nodcast_rss/breathing_exercise_8min.mp3" length="7680000" type="audio/mpeg" />
+      <guid isPermaLink="false">nodcast-breath-8min-001</guid>
+      <pubDate>Sun, 20 Oct 2025 20:35:00 +0000</pubDate>
+      <itunes:title>Guided Breathing Exercise - Essential 8 Minutes</itunes:title>
+      <itunes:episode>2</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>Nodcast Team</itunes:author>
+      <itunes:subtitle>Diaphragmatic breathing and 4-7-8 pattern for nervous system regulation</itunes:subtitle>
+      <itunes:summary>Guided breathing practice featuring diaphragmatic breathing and 4-7-8 technique for stress reduction and nervous system regulation. Research-based instruction on using conscious breathing to lower blood pressure, reduce anxiety, and activate the parasympathetic nervous system for improved well-being.</itunes:summary>
+      <itunes:duration>8:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords>breathing exercise, diaphragmatic breathing, 4-7-8 technique, stress reduction, nervous system</itunes:keywords>
+      <itunes:image href="https://genthos.github.io/pgit_nodcast/episode_art/breathing_exercise.jpg" />
+    </item>
+    
+    <item>
+      <title>Progressive Muscle Relaxation - Essential 12 Minutes</title>
+      <description>A comprehensive twelve-minute progressive muscle relaxation session that guides you through systematically tensing and releasing eight major muscle groups throughout your body. This evidence-based technique, developed by physician Edmund Jacobson, helps activate your body's natural relaxation response by teaching you to recognize the contrast between tension and relaxation. The session includes gentle instruction for feet and calves, thighs, abdomen and lower back, hands and arms, shoulders and neck, face and scalp, and back and chest. Research shows that progressive muscle relaxation can effectively reduce stress, lower blood pressure, and improve sleep quality.</description>
+      <enclosure url="https://genthos.github.io/pgit_nodcast/nodcast_rss/progressive_muscle_relaxation_12min.mp3" length="11520000" type="audio/mpeg" />
+      <guid isPermaLink="false">nodcast-pmr-12min-001</guid>
+      <pubDate>Sun, 20 Oct 2025 20:30:00 +0000</pubDate>
+      <itunes:title>Progressive Muscle Relaxation - Essential 12 Minutes</itunes:title>
+      <itunes:episode>1</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>Nodcast Team</itunes:author>
+      <itunes:subtitle>Systematic tension and release of eight major muscle groups</itunes:subtitle>
+      <itunes:summary>Comprehensive PMR session using Jacobson technique for stress reduction through systematic muscle tension and release cycles. Evidence-based practice featuring eight major muscle groups designed to activate the natural relaxation response, reduce stress, lower blood pressure, and improve sleep quality.</itunes:summary>
+      <itunes:duration>12:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords>progressive muscle relaxation, Jacobson technique, stress reduction, muscle tension, relaxation response</itunes:keywords>
+      <itunes:image href="https://genthos.github.io/pgit_nodcast/episode_art/progressive_muscle.jpg" />
+    </item>
+    
+  </channel>
+</rss>

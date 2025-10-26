@@ -1,0 +1,138 @@
+# FILE_LOCATION= ellipse://pgit_nodcast/pgit_update_nodcast.spec.yaml
+
+metadata:
+  version: "2.1"
+  created_by: pgit_nodcast
+  purpose: "Add new episodes and categories to podcast with multi-platform deployment"
+
+goal: "Add new episodes or categories to podcast by updating episodes.json and generating deployment artifacts for GitHub Pages, Spotify for Podcasters, and Apple Podcasts based on provided JSON dialog files and target platforms"
+
+imports:
+  - spec.file: "ellipse://ellipse4/ellipse4.spec.yaml"
+    as: "ellipse_core"
+  - project.file: "/Users/carmiehull/ellipse/projects/pgit_nodcast/data/episodes.json"
+    as: "current_episodes"
+  - project.file: "/Users/carmiehull/ellipse/projects/pgit_nodcast/sleep-stories.html"
+    as: "category_page_example"
+  - spec.file: "ellipse://podcast/rss/podcast_rss_2.0.spec.yaml"
+    as: "rss_format"
+  - spec.file: "ellipse://podcast/spotify/podcasters/submission.spec.yaml"
+    as: "spotify_format"
+  - spec.file: "ellipse://podcast/apple/podcasts/connect_api.spec.yaml"
+    as: "apple_format"
+
+context:
+  project_structure:
+    - "JavaScript-based podcast site with data-driven content from episodes.json"
+    - "Category-based organization with HTML pages and RSS feed generation"
+    - "Audio files located in audio_rss/ directory"
+    - "Multi-platform deployment to GitHub Pages, Spotify, and Apple Podcasts"
+    
+  platform_requirements:
+    github_pages:
+      - "HTML category pages with audio controls and RSS feed"
+      - "Episodes.json for dynamic content loading"
+      
+    spotify_podcasters:
+      - "1400x1400px minimum cover art"
+      - "Spotify-optimized RSS with platform-specific tags"
+      - "Episode metadata in Spotify submission format"
+      
+    apple_podcasts:
+      - "iTunes-compliant RSS with Apple namespace tags"
+      - "Category mapping to Apple's taxonomy"
+      - "Episode artwork 1400x1400px to 3000x3000px"
+
+constraints:
+  content_validation:
+    - "Episode numbering must be sequential within each category"
+    - "Audio file must exist in audio_rss/ directory"
+    - "Duration format: 'X minutes' where X is integer"
+    - "Episode ID must be unique and filesystem-safe"
+    - "Description minimum 100 characters"
+    
+  platform_compliance:
+    - "RSS feeds must validate against platform specifications"
+    - "Category names must map to platform taxonomies"
+    - "Audio file paths must be accessible for all target platforms"
+    - "Episode artwork must meet platform size requirements"
+    
+  file_operations:
+    - "Preserve FILE_LOCATION headers in all modifications"
+    - "Maintain JSON formatting and indentation"
+    - "Generate platform-specific artifacts as requested"
+
+outputs:
+  updated_episodes_json:
+    format: "Complete episodes.json file with new episodes/categories added"
+    requirements:
+      - "Valid JSON syntax with proper category assignment"
+      - "Sequential episode numbering within categories"
+      - "Platform-compatible metadata included"
+      
+  github_pages_artifacts:
+    files:
+      - "episodes.json (updated)"
+      - "category-name.html (for new categories only)"
+      - "feed.xml (RSS 2.0 compliant)"
+      
+  spotify_deployment:
+    files:
+      - "spotify_metadata.json"
+      - "spotify_rss.xml"
+      - "spotify_submission.json"
+      
+  apple_podcasts_deployment:
+    files:
+      - "apple_metadata.json" 
+      - "apple_rss.xml"
+      - "itunes_submission.json"
+
+processing_guidelines:
+  content_analysis:
+    - "Extract metadata from JSON dialog files"
+    - "Determine appropriate category based on content type and existing patterns"
+    - "Create new categories only when content doesn't fit existing structure"
+    - "Generate category-appropriate metadata sections"
+    
+  platform_optimization:
+    - "Create RSS feeds optimized for each target platform"
+    - "Generate platform-specific metadata formats"
+    - "Ensure category mappings work across all platforms"
+    - "Validate all artifacts meet platform requirements"
+    
+  category_management:
+    - "Maintain coherent category structure across platforms"
+    - "Generate HTML category pages for new categories"
+    - "Select appropriate icons and themes for new categories"
+    - "Update navigation to include all categories"
+
+validation_requirements:
+  technical_validation:
+    - "JSON syntax validation"
+    - "RSS feed compliance for all target platforms"
+    - "Audio file path verification"
+    - "Episode ID uniqueness check"
+    
+  content_validation:
+    - "Appropriate category assignment"
+    - "Complete episode metadata"
+    - "Platform-specific formatting compliance"
+    - "Deployment readiness confirmation"
+
+input_expectations:
+  required_inputs:
+    - "Updated directory listing showing audio_rss/ contents"
+    - "JSON dialog files for new episodes"
+    - "Target platforms specification (GitHub Pages, Spotify, Apple Podcasts, or all)"
+    
+  optional_inputs:
+    - "Category specification for new episodes"
+    - "Custom category creation requirements"
+    
+output_expectations:
+  deliverables:
+    - "Updated episodes.json ready for deployment"
+    - "Platform-specific deployment packages as requested"
+    - "New category HTML pages if categories created"
+    - "Validation confirmation for all generated artifacts"

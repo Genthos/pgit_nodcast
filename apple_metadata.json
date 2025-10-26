@@ -1,0 +1,78 @@
+{
+  "show_info": {
+    "title": "Nodcast",
+    "description": "Welcome to Nodcast, where evidence-based relaxation techniques meet modern sleep science. Our guided sessions feature expert instruction in progressive muscle relaxation, breathing exercises, body scan meditation, autogenic training, gentle evening practices, and calming sleep stories. Each episode presents research-backed methods for reducing stress, releasing physical tension, and promoting deep relaxation for improved sleep quality and overall well-being.",
+    "language": "en",
+    "categories": [
+      "Health & Fitness",
+      "Education"
+    ],
+    "subcategories": [
+      "Mental Health",
+      "Self-Improvement"
+    ],
+    "explicit": false,
+    "type": "episodic",
+    "complete": false,
+    "website": "https://genthos.github.io/pgit_nodcast"
+  },
+  "contact_info": {
+    "owner_name": "Nodcast Team",
+    "owner_email": "contact@genthos.com",
+    "show_contact_name": "Nodcast Support",
+    "show_contact_email": "contact@genthos.com"
+  },
+  "technical_specs": {
+    "rss_feed_url": "https://genthos.github.io/pgit_nodcast/nodcast_rss/apple_rss.xml",
+    "artwork_url": "https://genthos.github.io/pgit_nodcast/artwork.jpg",
+    "artwork_specs": "2000x2000 pixels, JPEG format, RGB colorspace",
+    "audio_format": "MP3, 128-192 kbps",
+    "namespace_compliance": "iTunes namespace required",
+    "encoding": "UTF-8"
+  },
+  "availability": {
+    "countries": ["US", "CA", "GB", "AU", "NZ", "IE"],
+    "public_catalog": true,
+    "transcript_preference": "manual"
+  },
+  "content_rights": {
+    "original_content": true,
+    "third_party_material": false,
+    "music_rights": false,
+    "copyright_holder": "Nodcast Team",
+    "rights_confirmation": "All content is original educational material"
+  },
+  "submission_details": {
+    "submission_method": "RSS feed",
+    "apple_id_required": true,
+    "payment_method_required": true,
+    "validation_timeline": "30 minutes to few hours",
+    "review_timeline": "24 hours to 5 business days"
+  },
+  "episode_summary": {
+    "total_episodes": 12,
+    "episode_categories": {
+      "Guided Relaxation Sessions": [
+        "Progressive Muscle Relaxation - Essential 12 Minutes",
+        "Guided Breathing Exercise - Essential 8 Minutes",
+        "Body Scan Meditation - Essential 10 Minutes", 
+        "Autogenic Training - Essential 12 Minutes"
+      ],
+      "Evening Wind-Down Sessions": [
+        "Daily Reflection - Essential 5 Minutes",
+        "Gratitude Practice - Essential 5 Minutes",
+        "Tension Release - Essential 8 Minutes",
+        "Worry Release - Essential 8 Minutes"
+      ],
+      "Sleep Stories": [
+        "Forest Path Journey - Essential 9 Minutes",
+        "Cozy Mountain Cabin - Essential 8 Minutes", 
+        "Garden of Breath - Essential 10 Minutes",
+        "Evening by the Window - Essential 9 Minutes"
+      ]
+    },
+    "duration_range": "5-12 minutes",
+    "evidence_based": true,
+    "target_audience": "Adults seeking stress reduction and sleep improvement"
+  }
+}

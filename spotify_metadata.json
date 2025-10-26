@@ -1,0 +1,70 @@
+{
+  "podcast_info": {
+    "title": "Nodcast",
+    "description": "Evidence-based relaxation techniques for better sleep and stress reduction. Featuring progressive muscle relaxation, breathing exercises, body scan meditation, autogenic training, evening wind-down practices, and calming sleep stories. Each episode presents research-backed methods for reducing stress, releasing physical tension, and promoting deep relaxation for improved sleep quality and overall well-being.",
+    "language": "en",
+    "country": "United States",
+    "category": "Health & Fitness",
+    "subcategories": [
+      "Education",
+      "Science"
+    ],
+    "hosting_provider": "GitHub Pages",
+    "rss_feed_url": "https://genthos.github.io/pgit_nodcast/nodcast_rss/spotify_rss.xml",
+    "cover_art_url": "https://genthos.github.io/pgit_nodcast/artwork.jpg",
+    "website": "https://genthos.github.io/pgit_nodcast",
+    "author": "Nodcast Team",
+    "explicit": false,
+    "email": "contact@genthos.com"
+  },
+  "technical_specs": {
+    "audio_format": "MP3",
+    "bitrate_range": "128-192 kbps",
+    "cover_art_size": "1400x1400 minimum",
+    "cover_art_format": "JPEG",
+    "encoding": "UTF-8",
+    "total_episodes": 12,
+    "categories_count": 3,
+    "average_episode_duration": "8.5 minutes"
+  },
+  "content_categories": {
+    "guided_relaxation": {
+      "episodes": [
+        "Progressive Muscle Relaxation - Essential 12 Minutes",
+        "Guided Breathing Exercise - Essential 8 Minutes", 
+        "Body Scan Meditation - Essential 10 Minutes",
+        "Autogenic Training - Essential 12 Minutes"
+      ],
+      "focus": "Evidence-based relaxation techniques"
+    },
+    "wind_down_sessions": {
+      "episodes": [
+        "Daily Reflection - Essential 5 Minutes",
+        "Gratitude Practice - Essential 5 Minutes",
+        "Tension Release - Essential 8 Minutes",
+        "Worry Release - Essential 8 Minutes"
+      ],
+      "focus": "Evening transition practices"
+    },
+    "sleep_stories": {
+      "episodes": [
+        "Forest Path Journey - Essential 9 Minutes",
+        "Cozy Mountain Cabin - Essential 8 Minutes",
+        "Garden of Breath - Essential 10 Minutes",
+        "Evening by the Window - Essential 9 Minutes"
+      ],
+      "focus": "Calming narrative journeys"
+    }
+  },
+  "submission_info": {
+    "submission_date": "2025-10-26T18:00:00Z",
+    "verification_email": "contact@genthos.com",
+    "submission_method": "RSS",
+    "platform_optimization": {
+      "spotify_categories": "Health & Fitness primary, Education and Science secondary",
+      "description_optimized": true,
+      "cover_art_compliant": true,
+      "audio_format_compliant": true
+    }
+  }
+}

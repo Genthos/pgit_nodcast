@@ -4,7 +4,13 @@
     "tagline": "Evidence-Based Relaxation for Better Sleep",
     "description": "Welcome to Nodcast, where evidence-based relaxation techniques meet modern sleep science. Our guided sessions feature expert instruction in progressive muscle relaxation, breathing exercises, body scan meditation, autogenic training, gentle evening practices, and calming sleep stories. Each episode presents research-backed methods for reducing stress, releasing physical tension, and promoting deep relaxation for improved sleep quality and overall well-being.",
     "rss_feed": "nodcast_rss/feed.xml",
-    "contact_email": "contact@nodcast.com"
+    "contact_email": "contact@genthos.com",
+    "website": "https://genthos.github.io/pgit_nodcast",
+    "author": "Nodcast Team",
+    "language": "en",
+    "explicit": false,
+    "copyright": "© 2024 Nodcast. Content for educational and relaxation purposes.",
+    "image": "https://genthos.github.io/pgit_nodcast/artwork.jpg"
   },
   "categories": {
     "guided-relaxation": {
@@ -36,7 +42,10 @@
       "episode_number": 1,
       "format": "Guided practice",
       "focus": "Systematic tension and release of eight major muscle groups",
-      "description": "A comprehensive twelve-minute progressive muscle relaxation session that guides you through systematically tensing and releasing eight major muscle groups throughout your body. This evidence-based technique, developed by physician Edmund Jacobson, helps activate your body's natural relaxation response by teaching you to recognize the contrast between tension and relaxation. The session includes gentle instruction for feet and calves, thighs, abdomen and lower back, hands and arms, shoulders and neck, face and scalp, and back and chest. Research shows that progressive muscle relaxation can effectively reduce stress, lower blood pressure, and improve sleep quality. The practice includes safety guidelines and modifications for different comfort levels, making it accessible for beginners while remaining effective for experienced practitioners.",
+      "description": "A comprehensive twelve-minute progressive muscle relaxation session that guides you through systematically tensing and releasing eight major muscle groups throughout your body. This evidence-based technique, developed by physician Edmund Jacobson, helps activate your body's natural relaxation response by teaching you to recognize the contrast between tension and relaxation. The session includes gentle instruction for feet and calves, thighs, abdomen and lower back, hands and arms, shoulders and neck, face and scalp, and back and chest. Research shows that progressive muscle relaxation can effectively reduce stress, lower blood pressure, and improve sleep quality.",
+      "publication_date": "2025-10-20T20:30:00Z",
+      "guid": "nodcast-pmr-12min-001",
+      "file_size": 11520000,
       "technique_details": {
         "method": "Progressive Muscle Relaxation (Jacobson technique)",
         "muscle_groups": "Eight major groups: feet/calves, thighs, abdomen/lower back, hands/arms, shoulders/neck, face/scalp, back/chest",
@@ -56,17 +65,19 @@
       "audio_file": "nodcast_rss/breathing_exercise_8min.mp3",
       "episode_number": 2,
       "format": "Guided practice",
-      "focus": "Diaphragmatic breathing and 4-7-8 breathing technique",
-      "description": "An eight-minute guided breathing practice featuring two fundamental techniques: diaphragmatic breathing and the 4-7-8 breathing pattern. This session teaches you how to use conscious breathing as a powerful tool for reducing stress, calming the mind, and activating your parasympathetic nervous system. The practice begins with diaphragmatic breathing, also called belly breathing, which helps you breathe more efficiently and activates the relaxation response. You'll then learn the 4-7-8 breathing technique developed by Dr. Andrew Weil, which is particularly effective for reducing anxiety and promoting relaxation. Research shows that controlled breathing exercises can lower blood pressure, reduce anxiety, and improve overall well-being within just minutes of practice. The session includes clear instruction on proper technique, safety guidelines, and gentle guidance for returning to natural breathing rhythm.",
+      "focus": "Diaphragmatic breathing and 4-7-8 pattern for nervous system regulation",
+      "description": "An eight-minute guided breathing practice featuring two fundamental techniques: diaphragmatic breathing and the 4-7-8 breathing pattern. This session teaches you how to use conscious breathing as a powerful tool for reducing stress, calming the mind, and activating your parasympathetic nervous system. Research shows that controlled breathing exercises can lower blood pressure, reduce anxiety, and improve overall well-being within just minutes of practice. The session includes detailed instruction on proper breathing mechanics, safety guidelines, and practical applications for daily stress management.",
+      "publication_date": "2025-10-20T20:35:00Z",
+      "guid": "nodcast-breath-8min-001",
+      "file_size": 7680000,
       "technique_details": {
-        "method": "Diaphragmatic breathing and 4-7-8 breathing pattern",
-        "breathing_techniques": "Belly breathing for efficiency, 4-7-8 pattern for anxiety reduction",
-        "timing_pattern": "Inhale 4 counts, hold 7 counts, exhale 8 counts",
-        "physiological_target": "Parasympathetic nervous system activation",
-        "safety_notes": "Includes respiratory and cardiovascular condition warnings",
-        "evidence_base": "Research-backed for blood pressure reduction and anxiety management",
-        "instructor_approach": "Experienced breathwork specialist with steady, calming guidance",
-        "session_structure": "Natural breath awareness → diaphragmatic breathing → 4-7-8 technique → natural return"
+        "method": "Diaphragmatic breathing and 4-7-8 pattern",
+        "breathing_patterns": "Deep belly breathing, 4-count inhale, 7-count hold, 8-count exhale",
+        "physiological_effects": "Parasympathetic nervous system activation, heart rate reduction",
+        "safety_notes": "Contraindications for respiratory and heart conditions included",
+        "evidence_base": "Research-backed for anxiety reduction and stress management",
+        "instructor_approach": "Clear, steady guidance with breath counting and pacing",
+        "session_structure": "Natural breathing awareness → diaphragmatic technique → 4-7-8 pattern → integration"
       }
     },
     {
@@ -77,17 +88,19 @@
       "audio_file": "nodcast_rss/body_scan_meditation_10min.mp3",
       "episode_number": 3,
       "format": "Guided meditation",
-      "focus": "Mindful body awareness and present-moment attention",
-      "description": "A ten-minute body scan meditation that systematically guides your attention through different parts of your body, helping you develop body awareness, release physical tension, and cultivate present-moment attention. This fundamental mindfulness practice involves observing whatever sensations are present without trying to change them, teaching you to develop a more peaceful relationship with your body and physical experience. Research from mindfulness-based stress reduction programs shows that regular body scan practice can reduce chronic pain, improve sleep quality, and decrease stress and anxiety. The session moves systematically from the top of your head through your face, neck, arms, chest, abdomen, back, hips, legs, and feet, concluding with whole-body awareness. The practice emphasizes gentle curiosity rather than judgment, helping you observe your physical experience with acceptance and kindness.",
+      "focus": "Mindful body awareness and present-moment attention cultivation",
+      "description": "A ten-minute body scan meditation that guides you through systematically bringing attention to different parts of your body, observing whatever sensations are present without trying to change them. This fundamental mindfulness practice helps develop body awareness, release physical tension, and cultivate present-moment attention. Research from mindfulness-based stress reduction programs shows that regular body scan practice can reduce chronic pain, improve sleep quality, and decrease stress and anxiety. The meditation teaches you to observe your physical experience with gentle curiosity rather than judgment.",
+      "publication_date": "2025-10-20T20:40:00Z",
+      "guid": "nodcast-bodyscan-10min-001",
+      "file_size": 9600000,
       "technique_details": {
         "method": "Mindfulness-based body scan meditation",
-        "scan_sequence": "Head to toe systematic attention: head/face → neck/shoulders → arms → chest/abdomen → back/hips → legs/feet",
-        "attention_duration": "30-60 seconds per body region",
-        "mindfulness_approach": "Observing without changing, gentle curiosity over judgment",
-        "safety_notes": "Suitable for general adult population with mindful awareness principles",
-        "evidence_base": "Mindfulness-based stress reduction research, chronic pain and sleep studies",
-        "instructor_approach": "Experienced meditation teacher with warm, accepting guidance",
-        "session_structure": "Settling → systematic scanning → whole-body awareness → mindful conclusion"
+        "body_regions": "Head to toe systematic awareness progression",
+        "observation_style": "Non-judgmental awareness of present sensations",
+        "mindfulness_elements": "Present-moment attention, acceptance, gentle returning of focus",
+        "evidence_base": "MBSR research showing benefits for pain, sleep, and stress reduction",
+        "instructor_approach": "Gentle guidance with emphasis on acceptance and curiosity",
+        "session_structure": "Settling → systematic body scanning → whole-body awareness → integration"
       }
     },
     {
@@ -97,18 +110,20 @@
       "duration": "12 minutes",
       "audio_file": "nodcast_rss/autogenic_training_12min.mp3",
       "episode_number": 4,
-      "format": "Guided self-regulation",
-      "focus": "Heaviness and warmth formulas for deep relaxation",
-      "description": "A twelve-minute autogenic training session featuring the fundamental heaviness and warmth formulas for deep relaxation and stress reduction. This powerful self-regulation technique, developed by German psychiatrist Johannes Schultz, uses focused attention and specific mental formulas to promote conscious control over normally unconscious bodily functions. The practice involves generating sensations of heaviness and warmth throughout your arms and legs through passive concentration and gentle mental repetition. Research has shown autogenic training to be effective for reducing stress, lowering blood pressure, improving sleep, and managing anxiety. The session guides you through the complete sequence of heaviness formulas followed by warmth formulas, concluding with whole-body integration and gentle return to alertness. This technique teaches your body to access its natural relaxation response through focused mental attention.",
+      "format": "Guided practice",
+      "focus": "Self-regulation through heaviness and warmth formulas",
+      "description": "A twelve-minute autogenic training session featuring the fundamental heaviness and warmth formulas developed by German psychiatrist Johannes Schultz. This powerful self-regulation technique helps you develop conscious control over normally unconscious bodily functions through focused attention and specific mental formulas. Research has shown autogenic training to be effective for reducing stress, lowering blood pressure, improving sleep, and managing anxiety. The session guides you through passive concentration techniques, helping you generate natural sensations of heaviness and warmth that indicate deep relaxation.",
+      "publication_date": "2025-10-20T20:45:00Z",
+      "guid": "nodcast-autogenic-12min-001",
+      "file_size": 11520000,
       "technique_details": {
-        "method": "Autogenic training (Schultz technique) with heaviness and warmth formulas",
-        "formula_sequence": "Right arm → left arm → both arms → right leg → left leg → both legs → whole body",
-        "passive_concentration": "Gentle attention without forcing, allowing natural response",
-        "physiological_target": "Muscle relaxation (heaviness) and circulation improvement (warmth)",
-        "safety_notes": "Includes cardiovascular and medical condition considerations",
+        "method": "Autogenic training (Schultz method)",
+        "formulas": "Heaviness and warmth suggestions for arms and legs",
+        "concentration_style": "Passive concentration without forcing sensations",
+        "physiological_targets": "Muscle relaxation (heaviness) and circulation improvement (warmth)",
         "evidence_base": "Developed by Johannes Schultz, research-backed for stress and anxiety reduction",
-        "instructor_approach": "Specialized autogenic training instructor with steady, systematic guidance",
-        "session_structure": "Preparation → heaviness formulas → warmth formulas → integration → alert return"
+        "instructor_approach": "Steady, gentle guidance emphasizing natural responses",
+        "session_structure": "Preparation → heaviness formulas → warmth formulas → integration → gentle return"
       }
     },
     {
@@ -118,18 +133,19 @@
       "duration": "5 minutes",
       "audio_file": "nodcast_rss/daily_reflection_5min.mp3",
       "episode_number": 1,
-      "format": "Gentle reflection",
-      "focus": "End-of-day acknowledgment and peaceful transition",
-      "description": "A gentle five-minute daily reflection practice to acknowledge the day's experiences, find appreciation, and prepare for restful sleep. This session provides a peaceful transition from the activities of the day to the quiet of evening through kind observation and gentle letting go. The practice involves looking back at your day with gentle awareness, finding something to appreciate however small, and acknowledging any concerns while setting them aside for rest. This isn't about analyzing or fixing anything from the day, but simply observing with the same gentle attention you might give to watching clouds pass by. The session helps create a sense of completion and peace, allowing you to settle into rest with gratitude and contentment rather than carrying the day's mental activity into sleep.",
-      "evening_details": {
-        "practice_type": "Daily acknowledgment and appreciation",
-        "transition_focus": "From day's activity to evening's rest",
-        "reflection_approach": "Gentle observation without judgment or analysis",
-        "gratitude_element": "Finding one thing to appreciate from the day",
-        "worry_management": "Acknowledgment and gentle setting aside of concerns",
-        "completion_sense": "Creating closure and peace for the day",
-        "instructor_approach": "Gentle evening companion with warm, supportive presence",
-        "session_structure": "Day acknowledgment → appreciation finding → concern release → peaceful transition"
+      "format": "Guided reflection",
+      "focus": "End-of-day acknowledgment and gratitude practice",
+      "description": "A gentle five-minute end-of-day reflection practice that helps you acknowledge your experiences, find gratitude, and prepare for restful sleep. This session guides you through observing your day with kind awareness, finding moments to appreciate, and releasing concerns that may be occupying your mind. The practice emphasizes gentle acknowledgment rather than analysis, helping you transition from the activities of the day to the peace of evening with a sense of completion and contentment.",
+      "publication_date": "2025-10-20T21:00:00Z",
+      "guid": "nodcast-reflection-5min-001",
+      "file_size": 4800000,
+      "technique_details": {
+        "method": "Gentle daily review and gratitude practice",
+        "reflection_elements": "Day observation, appreciation finding, concern release",
+        "emotional_tone": "Kind awareness without judgment",
+        "transition_focus": "From day activities to evening peace",
+        "instructor_approach": "Warm, supportive presence for gentle processing",
+        "session_structure": "Day acknowledgment → gratitude finding → concern release → peaceful transition"
       }
     },
     {
@@ -139,18 +155,19 @@
       "duration": "5 minutes",
       "audio_file": "nodcast_rss/gratitude_practice_5min.mp3",
       "episode_number": 2,
-      "format": "Gentle reflection",
-      "focus": "Evening appreciation cultivation and positive focus",
-      "description": "A gentle five-minute gratitude practice to cultivate appreciation and end the day with positive focus before sleep. This session helps shift attention toward what has supported and nourished you throughout the day, however small or simple it might have been. The practice isn't about forcing gratitude or pretending difficulties don't exist, but rather gently turning attention toward the good that was present. Starting with basic appreciations like breath and body, the session moves through comfort and beauty noticed during the day, people who were part of your experience, and small accomplishments or positive moments. The practice concludes by appreciating the act of gratitude itself, helping you rest with a sense of abundance and satisfaction that can carry into peaceful sleep.",
-      "evening_details": {
-        "practice_type": "Structured appreciation and thankfulness cultivation",
-        "gratitude_categories": "Breath/body, basic comforts, beauty, people, accomplishments",
-        "approach": "Gentle noticing without forcing positive emotions",
-        "difficulty_acknowledgment": "Recognizing some days gratitude comes easier than others",
-        "abundance_cultivation": "Creating sense of satisfaction and contentment",
-        "sleep_preparation": "Positive focus as transition to rest",
-        "instructor_approach": "Gentle evening companion specializing in appreciation practice",
-        "session_structure": "Basic gratitude → expanded appreciation → positive conclusion → rest transition"
+      "format": "Guided practice",
+      "focus": "Evening gratitude reflection and appreciation cultivation",
+      "description": "A five-minute gratitude practice designed to help you end your day with positive focus and appreciation. This session guides you through recognizing and appreciating various aspects of your day, from basic comforts and body functions to moments of beauty and human connection. The practice emphasizes authentic appreciation rather than forced positivity, helping you cultivate a genuine sense of gratitude that can enhance well-being and prepare your mind for peaceful sleep.",
+      "publication_date": "2025-10-20T21:10:00Z",
+      "guid": "nodcast-gratitude-5min-001",
+      "file_size": 4800000,
+      "technique_details": {
+        "method": "Structured gratitude reflection practice",
+        "gratitude_categories": "Body appreciation, basic comforts, beauty moments, human connections, personal accomplishments",
+        "approach_style": "Authentic appreciation without forced positivity",
+        "well_being_benefits": "Enhanced positive emotion and contentment",
+        "instructor_approach": "Gentle guidance encouraging natural appreciation",
+        "session_structure": "Gratitude invitation → systematic appreciation → integration → peaceful settling"
       }
     },
     {
@@ -160,18 +177,19 @@
       "duration": "8 minutes",
       "audio_file": "nodcast_rss/tension_release_8min.mp3",
       "episode_number": 3,
-      "format": "Gentle release practice",
-      "focus": "Physical and mental tension release for evening transition",
-      "description": "A gentle eight-minute practice to release accumulated physical and mental tension from the day and prepare for restful sleep. This session acknowledges that after a full day of activity, it's natural for the body and mind to have accumulated tension, and provides gentle methods to help release what is no longer needed. The practice begins with body awareness, scanning through different areas to notice where tension might be held, then guides you through gentle movements and releases for shoulders, neck, arms, back, and legs. The session also addresses mental tension, helping you close the mental tabs and windows that have been open during the day. This isn't about forcing relaxation but rather creating permission for your body and mind to naturally let go and prepare for rest.",
-      "evening_details": {
-        "practice_type": "Physical and mental tension acknowledgment and release",
-        "body_awareness": "Gentle scanning from head to toe for tension recognition",
-        "release_methods": "Gentle movements, stretches, and conscious letting go",
-        "mental_clearing": "Closing mental tabs and setting aside day's concerns",
-        "permission_approach": "Allowing natural release rather than forcing relaxation",
-        "day_acknowledgment": "Appreciating body and mind's work throughout the day",
-        "instructor_approach": "Gentle evening companion specializing in tension release",
-        "session_structure": "Body awareness → physical release → mental clearing → rest preparation"
+      "format": "Guided practice",
+      "focus": "Physical and mental tension release for sleep preparation",
+      "description": "An eight-minute evening practice designed to help you release accumulated physical and mental tension from the day. This session guides you through gentle body awareness, simple movement, and mental clearing techniques to help your body and mind transition from daily activities to rest. The practice acknowledges that tension accumulation is natural and provides gentle, effective methods for releasing what your body no longer needs to carry, creating space for relaxation and renewal.",
+      "publication_date": "2025-10-20T21:05:00Z",
+      "guid": "nodcast-tension-8min-001",
+      "file_size": 7680000,
+      "technique_details": {
+        "method": "Gentle tension release and body awareness",
+        "release_techniques": "Body scanning, gentle movement, mental clearing",
+        "focus_areas": "Shoulders, neck, back, arms, legs, mental preoccupations",
+        "approach_style": "Gentle acknowledgment and release without forcing",
+        "instructor_approach": "Supportive presence emphasizing natural letting go",
+        "session_structure": "Body awareness → systematic release → mental clearing → peaceful settling"
       }
     },
     {
@@ -181,19 +199,19 @@
       "duration": "8 minutes",
       "audio_file": "nodcast_rss/worry_release_8min.mp3",
       "episode_number": 4,
-      "format": "Gentle boundary practice",
-      "focus": "Concern acknowledgment and healthy worry boundaries",
-      "description": "A gentle eight-minute practice to acknowledge concerns, establish healthy boundaries around worry, and prepare for restful sleep. This session recognizes that concerns and worries naturally arise throughout the day and can follow us into evening hours, while teaching the important skill of temporal boundaries - knowing when to engage with worries and when to set them aside. The practice involves acknowledging current concerns without judgment, recognizing that evening is not an effective time for problem-solving, and creating a gentle container for worries to rest until they can be addressed with fresh energy. This isn't about dismissing legitimate concerns but rather recognizing that tired worry is not effective worry, and that rest actually prepares you to handle challenges more effectively tomorrow.",
-      "evening_details": {
-        "practice_type": "Worry acknowledgment and boundary setting",
-        "concern_recognition": "Gentle acknowledgment of current worries without judgment",
-        "temporal_boundaries": "Understanding appropriate times for worry vs. rest",
-        "containment_method": "Creating mental container for concerns to rest safely",
-        "effectiveness_principle": "Recognizing tired worry is not effective worry",
-        "trust_building": "Developing confidence in ability to handle tomorrow's challenges",
-        "caring_acknowledgment": "Recognizing worry often comes from love and caring",
-        "instructor_approach": "Gentle evening companion specializing in worry management",
-        "session_structure": "Concern acknowledgment → boundary education → containment practice → trust building"
+      "format": "Guided practice",
+      "focus": "Healthy boundaries around worry and evening mental clearing",
+      "description": "An eight-minute practice focused on acknowledging concerns while establishing healthy boundaries around worry time. This session helps you recognize that while caring about your life and responsibilities is natural, evening and nighttime are not the most effective times for worry or problem-solving. The practice guides you through gentle concern acknowledgment, temporal boundary setting, and worry containment techniques to help clear your mind for restful sleep.",
+      "publication_date": "2025-10-20T21:15:00Z",
+      "guid": "nodcast-worry-8min-001",
+      "file_size": 7680000,
+      "technique_details": {
+        "method": "Worry acknowledgment and boundary setting",
+        "boundary_techniques": "Temporal containment, concern validation, problem-solving time management",
+        "mental_clearing": "Worry container visualization, tomorrow planning deferral",
+        "approach_style": "Validation of concerns while promoting healthy boundaries",
+        "instructor_approach": "Understanding presence with practical boundary guidance",
+        "session_structure": "Worry acknowledgment → boundary explanation → containment practice → peaceful release"
       }
     },
     {
@@ -204,17 +222,18 @@
       "audio_file": "nodcast_rss/nature_journey_9min.mp3",
       "episode_number": 1,
       "format": "Sleep story",
-      "focus": "Peaceful autumn forest walk with gentle wildlife encounters",
-      "description": "A gentle nine-minute journey through a peaceful autumn forest, designed to help your mind settle as you prepare for sleep. This calming narrative takes you on a slow, mindful walk along a quiet woodland path where changing seasons have painted the world in soft, warm colors. The story features gentle descriptions of falling leaves, birch groves, forest clearings, wildlife encounters including a curious squirrel, and the soothing sounds of a small stream flowing through the woods. With no dramatic tension or stimulating elements, this nature story encourages relaxation through rich sensory details of autumn scents, pine groves, and the peaceful rhythms of the natural world. The narrative is specifically crafted to occupy the mind gently while supporting the transition from wakefulness to sleep, allowing your thoughts to settle into the same gentle calm that fills this imaginary woodland sanctuary.",
+      "focus": "Peaceful autumn forest walk with calming natural details",
+      "description": "A gentle nine-minute journey through a peaceful autumn forest featuring rich sensory descriptions, wildlife encounters, and seasonal beauty. This sleep story takes you on a slow, mindful walk along a woodland path where golden leaves crunch underfoot and wildlife moves peacefully through the trees. The narrative includes encounters with streams, clearings, and groves of different trees, all designed to engage your imagination in calming imagery that encourages natural sleep onset.",
+      "publication_date": "2025-10-23T17:30:00Z",
+      "guid": "nodcast-nature-9min-001",
+      "file_size": 8640000,
       "story_details": {
-        "narrative_type": "Nature journey through autumn forest setting",
-        "sensory_elements": "Autumn leaves, pine scents, stream sounds, forest wildlife, seasonal colors",
-        "pacing_approach": "Slow, unhurried progression matching natural sleep transition",
-        "imagery_focus": "Peaceful woodland scenes, gentle weather, comfortable natural settings",
-        "wildlife_encounters": "Curious squirrel, distant bird calls, small forest creatures",
-        "safety_atmosphere": "Complete sanctuary feeling, no threatening or stimulating elements",
-        "narrator_approach": "Gentle storyteller specializing in nature-based sleep narratives",
-        "story_structure": "Forest entrance → peaceful walking → wildlife encounters → stream discovery → pine grove rest"
+        "setting": "Autumn forest with well-worn path and seasonal colors",
+        "sensory_elements": "Visual (golden leaves, light filtering), auditory (rustling leaves, flowing water), tactile (soft leaves underfoot), olfactory (wood smoke, earthy scents)",
+        "wildlife_encounters": "Squirrels, small fish, birds settling for evening",
+        "natural_features": "Birch grove, stream with pools, pine grove, clearings",
+        "narrative_pace": "Slow, unhurried, matching natural sleep transition",
+        "sleep_induction_techniques": "Repetitive natural sounds, gentle descriptions, peaceful imagery"
       }
     },
     {
@@ -225,17 +244,18 @@
       "audio_file": "nodcast_rss/guided_visualization_8min.mp3",
       "episode_number": 2,
       "format": "Sleep story",
-      "focus": "Mountain cabin retreat with fireplace and cozy comfort",
-      "description": "An eight-minute guided visualization journey to a warm, comfortable mountain cabin retreat, designed to help your mind settle and your body prepare for restful sleep. This immersive story takes you along a peaceful mountain path in early evening to your own personal sanctuary nestled among pine trees. The cabin features a crackling stone fireplace, comfortable sofa with soft blankets, warm herbal tea, and large windows overlooking a star-filled forest scene. Rich sensory details include the scent of burning wood, the weight of soft woolly blankets, the taste of perfectly warm chamomile tea, and the gentle sounds of wind through pine branches. The visualization creates a complete atmosphere of safety, warmth, and comfort, providing the perfect environment for releasing the day's stress and allowing natural sleep to emerge. This is your own special retreat where time moves slowly and peacefully, with nothing required except rest and enjoyment of perfect tranquility.",
+      "focus": "Warm cabin retreat with rich sensory comfort details",
+      "description": "An eight-minute guided visualization journey to a warm, comfortable mountain cabin retreat. This sleep story immerses you in detailed sensory experiences of coziness and comfort, from the crackling fireplace and soft furnishings to herbal tea and peaceful forest views through the windows. The narrative creates a perfect sanctuary atmosphere designed to help your mind settle into the comfort and safety that promotes natural sleep onset.",
+      "publication_date": "2025-10-23T17:35:00Z",
+      "guid": "nodcast-cabin-8min-001",
+      "file_size": 7680000,
       "story_details": {
-        "narrative_type": "Guided visualization to personal mountain retreat sanctuary",
-        "sensory_elements": "Wood smoke, pine scents, fireplace warmth, soft textures, herbal tea",
-        "comfort_features": "Stone fireplace, comfortable sofa, warm blankets, peaceful lighting",
-        "safety_atmosphere": "Personal retreat, complete protection, no disturbances possible",
-        "environmental_setting": "Mountain cabin surrounded by protective pine forest",
-        "relaxation_elements": "Crackling fire sounds, soft furnishings, optimal temperature",
-        "narrator_approach": "Gentle storyteller specializing in guided visualization narratives",
-        "story_structure": "Mountain path → cabin approach → interior comfort → fireplace rest → deep settling"
+        "setting": "Cozy log cabin in mountain pine forest setting",
+        "comfort_elements": "Stone fireplace, soft sofa with blankets, herbal tea, reading materials",
+        "sensory_details": "Visual (warm firelight, forest views), auditory (crackling fire, wind in trees), tactile (soft fabrics, warm mug), olfactory (wood smoke, herbal tea)",
+        "safety_themes": "Warmth, protection, comfort, peaceful isolation",
+        "narrative_focus": "Creating perfect sanctuary atmosphere for sleep",
+        "visualization_techniques": "Detailed comfort imagery, safety sensations, warm environment"
       }
     },
     {
@@ -246,17 +266,18 @@
       "audio_file": "nodcast_rss/meditation_narrative_10min.mp3",
       "episode_number": 3,
       "format": "Sleep story",
-      "focus": "Meditation garden with breath awareness and fountain rhythm",
-      "description": "A ten-minute meditation story that combines gentle narrative with breath awareness, guiding you through a beautiful garden sanctuary designed for deep relaxation and sleep preparation. This unique sleep story weaves together peaceful imagery of lavender beds, flowering trees, and a central fountain with mindful breathing practices that help synchronize your natural rhythm with the garden's peaceful energy. The story features gentle movement through flower-filled paths, rest beside a three-tiered stone fountain whose flowing water guides your breathing pattern, and exploration of different garden areas representing various aspects of peace and tranquility. Night-blooming flowers, aromatic herbs, and soft mossy resting areas create a complete sensory experience that supports both mental calm and physical relaxation. The narrative seamlessly integrates meditation elements while maintaining the flowing, story-like quality that helps occupy the mind during sleep transition.",
+      "focus": "Story-based meditation combining narrative with breath awareness",
+      "description": "A ten-minute meditation story that combines gentle narrative with breath awareness in a beautiful garden setting. This unique sleep story guides you through a peaceful garden sanctuary where your breathing becomes synchronized with natural elements like flowing fountains and evening breezes. The story weaves mindfulness elements into the narrative, helping you develop both story engagement and breath awareness as pathways to deep relaxation and sleep.",
+      "publication_date": "2025-10-23T17:40:00Z",
+      "guid": "nodcast-garden-10min-001",
+      "file_size": 9600000,
       "story_details": {
-        "narrative_type": "Meditation story combining breath awareness with garden imagery",
-        "breathing_integration": "Fountain rhythm synchronization, natural breath awareness",
-        "garden_elements": "Lavender beds, flowering trees, herb sections, fountain centerpiece",
-        "meditation_aspects": "Gentle breath focus, mindful movement, present-moment awareness",
-        "sensory_aromatherapy": "Lavender, jasmine, chamomile, mint natural fragrances",
-        "peaceful_progression": "Garden entrance → flower paths → fountain meditation → nighttime rest",
-        "narrator_approach": "Gentle storyteller specializing in meditation-based sleep narratives",
-        "story_structure": "Garden entry → breath-coordinated walking → fountain meditation → arbor passage → natural bedding rest"
+        "setting": "Beautiful garden sanctuary with fountain centerpiece",
+        "meditation_elements": "Breath awareness synchronized with water sounds, natural rhythm matching",
+        "garden_features": "Lavender beds, flowering trees, fountain with three tiers, night-blooming flowers",
+        "sensory_integration": "Plant aromatherapy, water sounds, gentle evening air",
+        "breath_techniques": "Natural rhythm matching, fountain-synchronized breathing",
+        "narrative_meditation": "Story progression combined with mindfulness instruction"
       }
     },
     {
@@ -267,17 +288,18 @@
       "audio_file": "nodcast_rss/everyday_serenity_9min.mp3",
       "episode_number": 4,
       "format": "Sleep story",
-      "focus": "Cozy evening reading scene with gentle rain and warm lighting",
-      "description": "A nine-minute story celebrating the simple pleasure of a peaceful evening at home, designed to help you transition naturally from the day's activities to restful sleep. This domestic comfort narrative places you in your favorite chair beside a large window where gentle rain creates soothing background sounds while you enjoy warm herbal tea and a comforting book. The story features perfect lighting from table lamps and candles, the peaceful rhythm of raindrops on glass, the familiar comfort of soft furnishings, and the satisfaction of an unhurried evening routine. Rich details include the smooth pages of a favorite book, the warmth of a ceramic tea mug, soft throw blankets, and the cozy contrast between cool rain outside and warm comfort inside. This everyday serenity story captures the profound peace found in simple domestic pleasures, helping your nervous system recognize that it's time to rest and allowing natural sleep to emerge from this perfectly comfortable evening sanctuary.",
+      "focus": "Peaceful domestic evening with reading and gentle rain",
+      "description": "A nine-minute sleep story featuring a peaceful domestic evening scene by a window with gentle rain, warm lighting, and comfortable reading. This narrative celebrates the simple pleasures of a quiet evening at home, focusing on familiar comfort objects like a favorite chair, herbal tea, and a good book while rain creates soothing background sounds. The story emphasizes everyday serenity and the beauty found in ordinary moments of peace and comfort.",
+      "publication_date": "2025-10-23T17:45:00Z",
+      "guid": "nodcast-evening-9min-001",
+      "file_size": 8640000,
       "story_details": {
-        "narrative_type": "Domestic evening comfort scene with rain ambiance",
-        "comfort_elements": "Favorite reading chair, warm lighting, herbal tea, soft blankets",
-        "ambient_sounds": "Gentle rain on windows, soft lamp glow, peaceful indoor atmosphere",
-        "domestic_details": "Familiar books, ceramic mug warmth, comfortable furnishings",
-        "evening_rhythm": "Unhurried reading pace, natural breathing synchronization",
-        "safety_comfort": "Complete home sanctuary, no obligations or pressures",
-        "narrator_approach": "Gentle storyteller specializing in everyday comfort narratives",
-        "story_structure": "Evening settling → comfortable reading → rain appreciation → blanket comfort → peaceful rest preparation"
+        "setting": "Comfortable home interior with large window facing garden",
+        "comfort_objects": "Favorite reading chair, herbal tea, soft blankets, warm lighting",
+        "weather_element": "Gentle rain creating soothing background sounds",
+        "domestic_activities": "Reading, tea drinking, quiet reflection",
+        "lighting_atmosphere": "Warm lamp light, soft candle glow, peaceful interior ambiance",
+        "serenity_themes": "Simple pleasures, everyday comfort, familiar safety"
       }
     }
   ]
